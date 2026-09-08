@@ -1,0 +1,57 @@
+{
+  "status": "PASS",
+  "validated_on": "2026-09-08",
+  "archive_rows": 120960,
+  "designs": 25,
+  "configuration_files": 28,
+  "named_seed_columns": 7,
+  "primary_estimator": "complete distinct-replication-pair order-two U-statistic",
+  "bootstrap_draws": 1000,
+  "split_diagnostic_counts": [
+    20,
+    50,
+    100
+  ],
+  "checks": {
+    "original_release_108_file_manifest": "PASS",
+    "primary_six_table_reproduction": "PASS",
+    "descriptive_seven_table_reproduction": "PASS",
+    "one_shot_strength_grid_reproduction": "PASS",
+    "selected_manuscript_table_values": "PASS",
+    "representative_seed_replay_28_runs": "PASS",
+    "notebook_20_cells_11_executed_code_cells": "PASS",
+    "python_syntax": "PASS",
+    "primary_and_supplementary_figure_generation": "PASS",
+    "author_identity_text_and_png_metadata_scan": "PASS",
+    "complete_grid_replication_and_file_integrity": "PASS",
+    "clean_download_lossless_archive_reassembly": "PASS"
+  },
+  "notebook_execution": {
+    "cells": 20,
+    "executed_code_cells": 11,
+    "errors": 0
+  },
+  "full_abm_matrix_rerun": false,
+  "analysis_environment": {
+    "python": "3.12.14",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.16.1",
+    "matplotlib": "3.10.5",
+    "scikit-learn": "1.8.0",
+    "statsmodels": "0.14.5",
+    "networkx": "3.5",
+    "PyYAML": "6.0.3"
+  },
+  "notes": [
+    "Numerical comparison excludes runtime-only fields; precise tolerances are recorded in validation/reproduction_comparison.json.",
+    "No new main-archive runs were added. 28 existing runs were replayed and the separate 800 one-step screening runs were repeated.",
+    "Submitted images are preserved; exact regeneration of the final Figure 1 and Figure 3 artwork is not claimed.",
+    "Anonymous reviewer link and archival DOI are not provided by this local validation."
+  ],
+  "archive_transport": {
+    "parts": 8,
+    "original_sha256": "21ab14ffa0136c0cef0a4efee4bfcc369bf3c925221127c69591a9695f09f6ed",
+    "reassembled_bytes": 64627125
+  }
+}

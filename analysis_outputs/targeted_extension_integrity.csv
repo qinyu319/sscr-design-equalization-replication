@@ -1,0 +1,4 @@
+design,rows_added,replication_min,replication_max,cells,cell_replications_min,cell_replications_max,duplicate_keys,pass
+E-SD,4320,30,59,144,30,30,0,True
+J-S06-D05,4320,30,59,144,30,30,0,True
+J-S18-D05,4320,30,59,144,30,30,0,True

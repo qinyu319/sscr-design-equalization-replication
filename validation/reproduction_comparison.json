@@ -1,0 +1,86 @@
+{
+  "primary_rtol": 1e-09,
+  "primary_atol": 1e-14,
+  "descriptive_rtol": 1e-08,
+  "descriptive_atol": 1e-12,
+  "comparisons": [
+    {
+      "file": "complete_u_point_estimates.csv",
+      "status": "PASS",
+      "rows": 300,
+      "excluded_columns": []
+    },
+    {
+      "file": "complete_u_bootstrap_ranges.csv",
+      "status": "PASS",
+      "rows": 1500,
+      "excluded_columns": []
+    },
+    {
+      "file": "bootstrap_split_count_sensitivity.csv",
+      "status": "PASS",
+      "rows": 9,
+      "excluded_columns": [
+        "cumulative_runtime_seconds"
+      ]
+    },
+    {
+      "file": "extension_ratio_pairing_sensitivity.csv",
+      "status": "PASS",
+      "rows": 9,
+      "excluded_columns": []
+    },
+    {
+      "file": "toy_complete_u_validation.csv",
+      "status": "PASS",
+      "rows": 64,
+      "excluded_columns": []
+    },
+    {
+      "file": "toy_complete_u_truth.csv",
+      "status": "PASS",
+      "rows": 4,
+      "excluded_columns": []
+    },
+    {
+      "file": "variance_components.csv",
+      "status": "PASS",
+      "rows": 75
+    },
+    {
+      "file": "factor_metrics.csv",
+      "status": "PASS",
+      "rows": 600
+    },
+    {
+      "file": "planned_message_contrasts.csv",
+      "status": "PASS",
+      "rows": 144
+    },
+    {
+      "file": "exposure_spline_metrics.csv",
+      "status": "PASS",
+      "rows": 300
+    },
+    {
+      "file": "bootstrap_key_metrics.csv",
+      "status": "PASS",
+      "rows": 750
+    },
+    {
+      "file": "integrity_checks.csv",
+      "status": "PASS",
+      "rows": 25
+    },
+    {
+      "file": "design_registry.csv",
+      "status": "PASS",
+      "rows": 25
+    },
+    {
+      "file": "strength_screening_grid_revision.csv",
+      "status": "PASS",
+      "rows": 8
+    }
+  ]
+}

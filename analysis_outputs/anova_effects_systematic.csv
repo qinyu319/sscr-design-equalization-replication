@@ -1,0 +1,1126 @@
+effect,order,ss,share_sys,design,outcome
+topology,1,1.3076737942636206e-06,0.00012612924908397347,C-D1,mean_total_shift
+message_condition,1,0.01032720503711694,0.9960913969384002,C-D1,mean_total_shift
+inoculation,1,5.5206895581594564e-06,0.0005324878662025177,C-D1,mean_total_shift
+seeding_regime,1,1.5043252359810415e-06,0.0001450968989549923,C-D1,mean_total_shift
+topology × message_condition,2,2.6507217032907537e-06,0.00025567044276124254,C-D1,mean_total_shift
+topology × inoculation,2,1.7324524025183518e-06,0.0001671004814518095,C-D1,mean_total_shift
+topology × seeding_regime,2,1.7694320060693781e-06,0.0001706672804866869,C-D1,mean_total_shift
+message_condition × inoculation,2,7.780555100860009e-07,7.504590033331478e-05,C-D1,mean_total_shift
+message_condition × seeding_regime,2,1.3746780131457942e-06,0.000132592016671838,C-D1,mean_total_shift
+inoculation × seeding_regime,2,1.429690765378768e-06,0.00013789816959745735,C-D1,mean_total_shift
+topology × message_condition × inoculation,3,4.773756971976004e-06,0.0004604438697372365,C-D1,mean_total_shift
+topology × message_condition × seeding_regime,3,3.063479681094522e-06,0.0002954822475264556,C-D1,mean_total_shift
+topology × inoculation × seeding_regime,3,1.857325561685684e-06,0.0001791448902834389,C-D1,mean_total_shift
+message_condition × inoculation × seeding_regime,3,1.8247450644676838e-06,0.0001760023988861842,C-D1,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,1.0936308588414823e-05,0.001054841349622774,C-D1,mean_total_shift
+topology,1,1.5680502296150298e-06,0.00046944200269167645,C-D1,mean_signed_shift
+message_condition,1,0.0032684065885147714,0.978493740535171,C-D1,mean_signed_shift
+inoculation,1,1.6841230487411587e-05,0.005041918185072172,C-D1,mean_signed_shift
+seeding_regime,1,2.8671126561481303e-07,8.583545870053354e-05,C-D1,mean_signed_shift
+topology × message_condition,2,2.6339328825235493e-06,0.0007885453565035869,C-D1,mean_signed_shift
+topology × inoculation,2,6.702844691330016e-06,0.0020066939031677267,C-D1,mean_signed_shift
+topology × seeding_regime,2,1.0157444591297884e-06,0.0003040930093380544,C-D1,mean_signed_shift
+message_condition × inoculation,2,4.001065947454967e-06,0.0011978368905541125,C-D1,mean_signed_shift
+message_condition × seeding_regime,2,2.5214268070988984e-06,0.0007548633504269733,C-D1,mean_signed_shift
+inoculation × seeding_regime,2,7.861754519414536e-07,0.0002353647680770011,C-D1,mean_signed_shift
+topology × message_condition × inoculation,3,5.170368119747446e-06,0.0015479019223659275,C-D1,mean_signed_shift
+topology × message_condition × seeding_regime,3,6.132718310307341e-06,0.0018360097853762,C-D1,mean_signed_shift
+topology × inoculation × seeding_regime,3,4.059531426598605e-06,0.0012153402530734729,C-D1,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,4.3777039109762356e-06,0.0013105945538902848,C-D1,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,1.5738622514964006e-05,0.004711820025591223,C-D1,mean_signed_shift
+topology,1,5.346834356373575e-06,0.001142509287604676,C-D1,conversion_rate
+message_condition,1,0.0040406945518902185,0.8634138905771703,C-D1,conversion_rate
+inoculation,1,2.294299401195393e-05,0.004902449187128773,C-D1,conversion_rate
+seeding_regime,1,7.923368690960544e-06,0.001693062046657134,C-D1,conversion_rate
+topology × message_condition,2,4.357251136761619e-05,0.009310555667844897,C-D1,conversion_rate
+topology × inoculation,2,2.930496339191895e-05,0.006261872094143316,C-D1,conversion_rate
+topology × seeding_regime,2,8.289233194823457e-05,0.017712398179901813,C-D1,conversion_rate
+message_condition × inoculation,2,1.2145773361543072e-05,0.0025953036779908963,C-D1,conversion_rate
+message_condition × seeding_regime,2,1.0633461821951684e-05,0.0022721535924313417,C-D1,conversion_rate
+inoculation × seeding_regime,2,6.926273938529007e-06,0.0014800032647038516,C-D1,conversion_rate
+topology × message_condition × inoculation,3,8.06188716638255e-05,0.01722660615478671,C-D1,conversion_rate
+topology × message_condition × seeding_regime,3,7.23103413203495e-05,0.015451242930292727,C-D1,conversion_rate
+topology × inoculation × seeding_regime,3,3.388648942743855e-05,0.007240850625756921,C-D1,conversion_rate
+message_condition × inoculation × seeding_regime,3,8.207782958415209e-05,0.017538355661709543,C-D1,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.00014862790324301524,0.03175874705187702,C-D1,conversion_rate
+topology,1,6.255768687279591e-05,0.00024439820629265494,C-D5,mean_total_shift
+message_condition,1,0.063134680761211,0.2466523860492884,C-D5,mean_total_shift
+inoculation,1,5.103099358673975e-05,0.00019936611983897932,C-D5,mean_total_shift
+seeding_regime,1,0.17053374721998982,0.6662353423917097,C-D5,mean_total_shift
+topology × message_condition,2,1.3259239124249755e-05,5.180073658032303e-05,C-D5,mean_total_shift
+topology × inoculation,2,9.559703764223758e-06,3.7347519856611473e-05,C-D5,mean_total_shift
+topology × seeding_regime,2,3.2265769049688586e-05,0.0001260547899801928,C-D5,mean_total_shift
+message_condition × inoculation,2,7.878342680761596e-06,3.077883655852229e-05,C-D5,mean_total_shift
+message_condition × seeding_regime,2,0.02204971955886137,0.08614308135144993,C-D5,mean_total_shift
+inoculation × seeding_regime,2,1.8959118614797488e-05,7.406882853210428e-05,C-D5,mean_total_shift
+topology × message_condition × inoculation,3,6.377725180625737e-06,2.4916276037217955e-05,C-D5,mean_total_shift
+topology × message_condition × seeding_regime,3,9.644524009477795e-06,3.767889265560165e-05,C-D5,mean_total_shift
+topology × inoculation × seeding_regime,3,9.704656908637865e-06,3.791381778516697e-05,C-D5,mean_total_shift
+message_condition × inoculation × seeding_regime,3,7.888377898890298e-06,3.0818041801443073e-05,C-D5,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,1.8953823467338093e-05,7.404814163324623e-05,C-D5,mean_total_shift
+topology,1,4.9449396015550966e-05,0.0005415348646475425,C-D5,mean_signed_shift
+message_condition,1,0.021887052863637447,0.23969154661294703,C-D5,mean_signed_shift
+inoculation,1,0.00015328430722282363,0.001678661485337441,C-D5,mean_signed_shift
+seeding_regime,1,0.06057699133993287,0.6633964304783307,C-D5,mean_signed_shift
+topology × message_condition,2,1.7860874382262526e-05,0.00019559968311935565,C-D5,mean_signed_shift
+topology × inoculation,2,2.891706058236407e-05,0.00031667922664921214,C-D5,mean_signed_shift
+topology × seeding_regime,2,2.3709170593681772e-05,0.00025964609323675473,C-D5,mean_signed_shift
+message_condition × inoculation,2,3.400481475169387e-05,0.00037239671740646067,C-D5,mean_signed_shift
+message_condition × seeding_regime,2,0.00838507585907293,0.0918274293779934,C-D5,mean_signed_shift
+inoculation × seeding_regime,2,7.258955470605677e-05,0.0007949495413494555,C-D5,mean_signed_shift
+topology × message_condition × inoculation,3,1.4532313907664879e-05,0.00015914763938730414,C-D5,mean_signed_shift
+topology × message_condition × seeding_regime,3,1.2034583950645827e-05,0.00013179426476216105,C-D5,mean_signed_shift
+topology × inoculation × seeding_regime,3,1.2726207402793954e-05,0.00013936843639467838,C-D5,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,1.9714138009330195e-05,0.00021589531761253907,C-D5,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,2.5469160592858642e-05,0.00027892026082589055,C-D5,mean_signed_shift
+topology,1,0.00012449126096377805,0.0010677179739300722,C-D5,conversion_rate
+message_condition,1,0.027384369621190986,0.234866153840289,C-D5,conversion_rate
+inoculation,1,0.0001721616773659018,0.0014765704509893888,C-D5,conversion_rate
+seeding_regime,1,0.0769532165134843,0.6600008047720406,C-D5,conversion_rate
+topology × message_condition,2,0.00011983660387748438,0.0010277966092090355,C-D5,conversion_rate
+topology × inoculation,2,2.1150773670559962e-05,0.00018140278310101272,C-D5,conversion_rate
+topology × seeding_regime,2,0.0001277108936991178,0.0010953316370447557,C-D5,conversion_rate
+message_condition × inoculation,2,0.0001052548569036027,0.0009027340689569619,C-D5,conversion_rate
+message_condition × seeding_regime,2,0.009998273195525903,0.08575168984939721,C-D5,conversion_rate
+inoculation × seeding_regime,2,0.00010625126054529532,0.0009112798742551678,C-D5,conversion_rate
+topology × message_condition × inoculation,3,0.00018482743537566806,0.0015852002244833774,C-D5,conversion_rate
+topology × message_condition × seeding_regime,3,0.0003032001114900984,0.0026004412376365352,C-D5,conversion_rate
+topology × inoculation × seeding_regime,3,0.00015304746984411144,0.0013126345829577923,C-D5,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.00043924670056808,0.0037672652164915995,C-D5,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.00040260205060548004,0.0034529768792176435,C-D5,conversion_rate
+topology,1,0.00027555552043029643,0.0002790695094878445,C-D10,mean_total_shift
+message_condition,1,0.16216294657919564,0.16423091030182116,C-D10,mean_total_shift
+inoculation,1,0.00015041808651940447,0.0001523362753085861,C-D10,mean_total_shift
+seeding_regime,1,0.7319922980474808,0.7413269429187999,C-D10,mean_total_shift
+topology × message_condition,2,3.80394376539861e-05,3.8524531066241654e-05,C-D10,mean_total_shift
+topology × inoculation,2,5.763671115863932e-05,5.837171647447639e-05,C-D10,mean_total_shift
+topology × seeding_regime,2,0.00025223272020014065,0.0002554492880168725,C-D10,mean_total_shift
+message_condition × inoculation,2,2.5650167015167646e-05,2.5977267724581232e-05,C-D10,mean_total_shift
+message_condition × seeding_regime,2,0.09219048071227254,0.0933661288717692,C-D10,mean_total_shift
+inoculation × seeding_regime,2,9.333444823467207e-05,9.452468470417474e-05,C-D10,mean_total_shift
+topology × message_condition × inoculation,3,2.4393443526421477e-05,2.4704518018755755e-05,C-D10,mean_total_shift
+topology × message_condition × seeding_regime,3,5.4876343492882285e-05,5.557614754780056e-05,C-D10,mean_total_shift
+topology × inoculation × seeding_regime,3,3.6790659162289074e-05,3.7259827675096886e-05,C-D10,mean_total_shift
+message_condition × inoculation × seeding_regime,3,2.6187993749093863e-05,2.652195303007561e-05,C-D10,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,2.735336797832222e-05,2.7702188555797183e-05,C-D10,mean_total_shift
+topology,1,0.00015856392460502538,0.00038368902142948806,C-D10,mean_signed_shift
+message_condition,1,0.06419166716040331,0.15532939171412236,C-D10,mean_signed_shift
+inoculation,1,0.00041915519959407694,0.0010142612751288832,C-D10,mean_signed_shift
+seeding_regime,1,0.30592655632631144,0.740273434316947,C-D10,mean_signed_shift
+topology × message_condition,2,3.292525834765192e-05,7.967171717773734e-05,C-D10,mean_signed_shift
+topology × inoculation,2,0.00010359689554210896,0.00025068117841241244,C-D10,mean_signed_shift
+topology × seeding_regime,2,0.00015120234100346464,0.00036587564543434897,C-D10,mean_signed_shift
+message_condition × inoculation,2,6.347335787713904e-05,0.0001535912448647308,C-D10,mean_signed_shift
+message_condition × seeding_regime,2,0.041700424915736,0.10090564590254536,C-D10,mean_signed_shift
+inoculation × seeding_regime,2,0.0002767083849725127,0.0006695720335877245,C-D10,mean_signed_shift
+topology × message_condition × inoculation,3,4.026992158347176e-05,9.744414969478376e-05,C-D10,mean_signed_shift
+topology × message_condition × seeding_regime,3,5.306593174797536e-05,0.00012840761525260188,C-D10,mean_signed_shift
+topology × inoculation × seeding_regime,3,5.0859290504468024e-05,0.00012306803992690105,C-D10,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,5.64791114806007e-05,0.0001366667422566548,C-D10,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,3.66147278327289e-05,8.859940321886777e-05,C-D10,mean_signed_shift
+topology,1,0.00026955455422917056,0.0005440316008538192,C-D10,conversion_rate
+message_condition,1,0.07571142085153254,0.15280545196709222,C-D10,conversion_rate
+inoculation,1,0.0005886212297435748,0.0011879916139042042,C-D10,conversion_rate
+seeding_regime,1,0.36848858754732045,0.7437063593787246,C-D10,conversion_rate
+topology × message_condition,2,0.00011657659308045298,0.00023528205908820735,C-D10,conversion_rate
+topology × inoculation,2,0.00021349228009939856,0.00043088326681975484,C-D10,conversion_rate
+topology × seeding_regime,2,0.00024299586688897312,0.0004904292225464596,C-D10,conversion_rate
+message_condition × inoculation,2,0.00011073858166835149,0.00022349942494421805,C-D10,conversion_rate
+message_condition × seeding_regime,2,0.047553270645108336,0.0959749392061786,C-D10,conversion_rate
+inoculation × seeding_regime,2,0.00031176029316343223,0.000629213822253438,C-D10,conversion_rate
+topology × message_condition × inoculation,3,0.00035975884271628733,0.0007260874507720663,C-D10,conversion_rate
+topology × message_condition × seeding_regime,3,0.00023294229489850826,0.00047013848444369446,C-D10,conversion_rate
+topology × inoculation × seeding_regime,3,0.0003112003290907106,0.0006280836682785792,C-D10,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.0002091958457414167,0.0004222119384186438,C-D10,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.0007557974198422746,0.001525396895681468,C-D10,conversion_rate
+topology,1,0.0027206022283503633,0.00018737682723017602,C-D50,mean_total_shift
+message_condition,1,1.1833100968991999,0.08149845989093638,C-D50,mean_total_shift
+inoculation,1,0.0019813064459289725,0.0001364590941447457,C-D50,mean_total_shift
+seeding_regime,1,11.98439273769764,0.8254045608246687,C-D50,mean_total_shift
+topology × message_condition,2,0.00047171560781311683,3.248860602476616e-05,C-D50,mean_total_shift
+topology × inoculation,2,0.0003191293126485724,2.1979485812777028e-05,C-D50,mean_total_shift
+topology × seeding_regime,2,0.0035969074397126377,0.00024773085049725757,C-D50,mean_total_shift
+message_condition × inoculation,2,0.00024749043373950563,1.7045480504530618e-05,C-D50,mean_total_shift
+message_condition × seeding_regime,2,1.3382095404252148,0.09216689424167333,C-D50,mean_total_shift
+inoculation × seeding_regime,2,0.0025382136397116284,0.00017481512500631285,C-D50,mean_total_shift
+topology × message_condition × inoculation,3,0.00010910257793872447,7.514253529516138e-06,C-D50,mean_total_shift
+topology × message_condition × seeding_regime,3,0.0006767790928421391,4.661200297162501e-05,C-D50,mean_total_shift
+topology × inoculation × seeding_regime,3,0.00043258323951356203,2.97934310603542e-05,C-D50,mean_total_shift
+message_condition × inoculation × seeding_regime,3,0.0002563926678433859,1.765860665882947e-05,C-D50,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,0.00015406958524799563,1.0611279280596381e-05,C-D50,mean_total_shift
+topology,1,0.0024636250164505233,0.00025271579996594183,C-D50,mean_signed_shift
+message_condition,1,0.7356306808074182,0.07546014297564697,C-D50,mean_signed_shift
+inoculation,1,0.003866413420940547,0.0003966122093044054,C-D50,mean_signed_shift
+seeding_regime,1,8.032180323064592,0.8239317518940006,C-D50,mean_signed_shift
+topology × message_condition,2,0.00043511745667668134,4.463384460254441e-05,C-D50,mean_signed_shift
+topology × inoculation,2,0.0005059337988472714,5.1898102938452545e-05,C-D50,mean_signed_shift
+topology × seeding_regime,2,0.003711683643423669,0.00038074020798820377,C-D50,mean_signed_shift
+message_condition × inoculation,2,0.00044630173541138074,4.5781114957654636e-05,C-D50,mean_signed_shift
+message_condition × seeding_regime,2,0.9623555874290712,0.09871732122578722,C-D50,mean_signed_shift
+inoculation × seeding_regime,2,0.004830594387360776,0.0004955167757923211,C-D50,mean_signed_shift
+topology × message_condition × inoculation,3,0.00014483837282464052,1.4857352482513831e-05,C-D50,mean_signed_shift
+topology × message_condition × seeding_regime,3,0.0006752817061261851,6.92696150698761e-05,C-D50,mean_signed_shift
+topology × inoculation × seeding_regime,3,0.0006044803471265681,6.20068936902877e-05,C-D50,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,0.0005374227551726563,5.512820359692345e-05,C-D50,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,0.00021080160264652648,2.162378417624313e-05,C-D50,mean_signed_shift
+topology,1,0.004339740044667805,0.0002448776239690324,C-D50,conversion_rate
+message_condition,1,1.7293033486192988,0.09757904638824984,C-D50,conversion_rate
+inoculation,1,0.006456647348570026,0.0003643279194721463,C-D50,conversion_rate
+seeding_regime,1,13.337536803744928,0.7525944615308378,C-D50,conversion_rate
+topology × message_condition,2,0.0030518485914443616,0.00017220603632799841,C-D50,conversion_rate
+topology × inoculation,2,0.0013584144320550016,7.665097334472587e-05,C-D50,conversion_rate
+topology × seeding_regime,2,0.0075389562905421315,0.0004253991447950111,C-D50,conversion_rate
+message_condition × inoculation,2,0.0017853093100335116,0.00010073928331904589,C-D50,conversion_rate
+message_condition × seeding_regime,2,2.6039620666582213,0.1469332349923201,C-D50,conversion_rate
+inoculation × seeding_regime,2,0.008699412271205631,0.0004908799570880625,C-D50,conversion_rate
+topology × message_condition × inoculation,3,0.0018125812851512713,0.0001022781534815537,C-D50,conversion_rate
+topology × message_condition × seeding_regime,3,0.005661032343756034,0.0003194339143087854,C-D50,conversion_rate
+topology × inoculation × seeding_regime,3,0.0029768825770268847,0.00016797594436395656,C-D50,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.002544832444762335,0.0001435967399103525,C-D50,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.005048867222583908,0.00028489139821187483,C-D50,conversion_rate
+topology,1,0.0027069199801653884,0.00020866915559631971,E-S,mean_total_shift
+message_condition,1,0.09654724649931434,0.0074425666623993605,E-S,mean_total_shift
+inoculation,1,0.002199267954469769,0.00016953563103155075,E-S,mean_total_shift
+seeding_regime,1,12.723894195525922,0.9808506631640758,E-S,mean_total_shift
+topology × message_condition,2,0.00014257332476796947,1.0990592816886419e-05,E-S,mean_total_shift
+topology × inoculation,2,0.0004043214777617052,3.116805150214908e-05,E-S,mean_total_shift
+topology × seeding_regime,2,0.0036030807539013665,0.00027775177100581016,E-S,mean_total_shift
+message_condition × inoculation,2,0.00011743914140661948,9.053066455913043e-06,E-S,mean_total_shift
+message_condition × seeding_regime,2,0.13887928882971323,0.010705829556196573,E-S,mean_total_shift
+inoculation × seeding_regime,2,0.0027560770600292273,0.00021245854221355596,E-S,mean_total_shift
+topology × message_condition × inoculation,3,8.774956002612078e-05,6.76437675615385e-06,E-S,mean_total_shift
+topology × message_condition × seeding_regime,3,0.00018360766742375745,1.4153819545114328e-05,E-S,mean_total_shift
+topology × inoculation × seeding_regime,3,0.0005452608716698393,4.203268899884765e-05,E-S,mean_total_shift
+message_condition × inoculation × seeding_regime,3,0.00012972799796351353,1.0000381241632973e-05,E-S,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,0.0001084814235774445,8.362540164341676e-06,E-S,mean_total_shift
+topology,1,0.0022788431226020483,0.0002507785505813903,E-S,mean_signed_shift
+message_condition,1,0.15727192839119908,0.0173072142868926,E-S,mean_signed_shift
+inoculation,1,0.003927199598845177,0.000432174296455156,E-S,mean_signed_shift
+seeding_regime,1,8.70391269596954,0.9578345207852094,E-S,mean_signed_shift
+topology × message_condition,2,0.00016485992357834212,1.8142246069456688e-05,E-S,mean_signed_shift
+topology × inoculation,2,0.0005895588429214197,6.487884604424078e-05,E-S,mean_signed_shift
+topology × seeding_regime,2,0.0034935154324031714,0.0003844489021128545,E-S,mean_signed_shift
+message_condition × inoculation,2,0.0001768228814841566,1.945872688137883e-05,E-S,mean_signed_shift
+message_condition × seeding_regime,2,0.2090812681666332,0.02300864717913432,E-S,mean_signed_shift
+inoculation × seeding_regime,2,0.0047848373732293226,0.0005265542719131964,E-S,mean_signed_shift
+topology × message_condition × inoculation,3,0.00013647971017408111,1.5019104896586237e-05,E-S,mean_signed_shift
+topology × message_condition × seeding_regime,3,0.00022040647098897637,2.4254945320791635e-05,E-S,mean_signed_shift
+topology × inoculation × seeding_regime,3,0.0006591793750541086,7.254033707263824e-05,E-S,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,0.0002223520607138596,2.4469050524608893e-05,E-S,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,0.00015355764711166842,1.689847089139782e-05,E-S,mean_signed_shift
+topology,1,0.0012625834887304498,9.228371682814168e-05,E-S,conversion_rate
+message_condition,1,0.26097741356577236,0.019075147067115075,E-S,conversion_rate
+inoculation,1,0.007205500649038181,0.0005266585437208989,E-S,conversion_rate
+seeding_regime,1,12.950697647413667,0.9465817707013867,E-S,conversion_rate
+topology × message_condition,2,0.0007531460307191318,5.504833197130582e-05,E-S,conversion_rate
+topology × inoculation,2,0.0034418488268910443,0.00025156879156202494,E-S,conversion_rate
+topology × seeding_regime,2,0.0025302744284640966,0.0001849407432760429,E-S,conversion_rate
+message_condition × inoculation,2,0.000862378485606663,6.303226097501843e-05,E-S,conversion_rate
+message_condition × seeding_regime,2,0.42867926844779625,0.03133267350051422,E-S,conversion_rate
+inoculation × seeding_regime,2,0.011062663335762224,0.0008085831152988411,E-S,conversion_rate
+topology × message_condition × inoculation,3,0.001374551592771056,0.0001004675976560599,E-S,conversion_rate
+topology × message_condition × seeding_regime,3,0.0014199235920226982,0.00010378389061271451,E-S,conversion_rate
+topology × inoculation × seeding_regime,3,0.005806835326596982,0.00042442844511309007,E-S,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.0015547148538104238,0.00011363594296786931,E-S,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.003912610956041007,0.00028597735100198055,E-S,conversion_rate
+topology,1,2.3076111364834588e-06,0.007581253259649935,E-SD,mean_total_shift
+message_condition,1,0.00026340682366252777,0.865377103158164,E-SD,mean_total_shift
+inoculation,1,5.363927907482533e-06,0.017622248086000557,E-SD,mean_total_shift
+seeding_regime,1,1.1106421301711252e-06,0.003648820694502115,E-SD,mean_total_shift
+topology × message_condition,2,4.362850490352186e-06,0.014333383115732297,E-SD,mean_total_shift
+topology × inoculation,2,2.421479646030687e-06,0.007955348355451874,E-SD,mean_total_shift
+topology × seeding_regime,2,8.748259896113221e-07,0.0028740879607099504,E-SD,mean_total_shift
+message_condition × inoculation,2,4.7516088942883925e-07,0.0015610580937523446,E-SD,mean_total_shift
+message_condition × seeding_regime,2,1.1445927657631385e-06,0.0037603595767166332,E-SD,mean_total_shift
+inoculation × seeding_regime,2,2.0171323174327508e-06,0.0066269358449995005,E-SD,mean_total_shift
+topology × message_condition × inoculation,3,4.421170554289012e-06,0.014524983497544382,E-SD,mean_total_shift
+topology × message_condition × seeding_regime,3,3.40012822461547e-06,0.011170527294895706,E-SD,mean_total_shift
+topology × inoculation × seeding_regime,3,1.2018794499640867e-06,0.003948564969933277,E-SD,mean_total_shift
+message_condition × inoculation × seeding_regime,3,1.5200371915950989e-06,0.0049938166493382575,E-SD,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,1.035559839262872e-05,0.034021509442609184,E-SD,mean_total_shift
+topology,1,2.3781074122171517e-06,0.003029500776227162,E-SD,mean_signed_shift
+message_condition,1,0.0007230832257162545,0.9211447650894438,E-SD,mean_signed_shift
+inoculation,1,1.4333084431228624e-05,0.018259095525737158,E-SD,mean_signed_shift
+seeding_regime,1,1.5772916277917756e-07,0.00020093315323704389,E-SD,mean_signed_shift
+topology × message_condition,2,2.822938564579769e-06,0.003596176744877445,E-SD,mean_signed_shift
+topology × inoculation,2,8.209773390391936e-06,0.010458533004467328,E-SD,mean_signed_shift
+topology × seeding_regime,2,6.564032378552237e-07,0.0008362002945638355,E-SD,mean_signed_shift
+message_condition × inoculation,2,2.287774506608926e-06,0.0029144245579482606,E-SD,mean_signed_shift
+message_condition × seeding_regime,2,1.6571420425969376e-06,0.0021110539745072157,E-SD,mean_signed_shift
+inoculation × seeding_regime,2,2.1265201692371664e-06,0.0027090006407071605,E-SD,mean_signed_shift
+topology × message_condition × inoculation,3,3.884861777262078e-06,0.004948974007350691,E-SD,mean_signed_shift
+topology × message_condition × seeding_regime,3,4.3751249904359e-06,0.005573526446502709,E-SD,mean_signed_shift
+topology × inoculation × seeding_regime,3,3.1707002241864903e-06,0.004039194672624607,E-SD,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,3.1232831982089737e-06,0.003978789530170868,E-SD,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,1.2716596695820214e-05,0.01619983158163475,E-SD,mean_signed_shift
+topology,1,3.0931471718957045e-06,0.003012173521263834,E-SD,conversion_rate
+message_condition,1,0.0002942926320548178,0.28658852117769595,E-SD,conversion_rate
+inoculation,1,1.4042916210431652e-05,0.013675295102258121,E-SD,conversion_rate
+seeding_regime,1,2.8492828706369543e-06,0.0027746931977579463,E-SD,conversion_rate
+topology × message_condition,2,3.482382467210747e-05,0.03391219258479992,E-SD,conversion_rate
+topology × inoculation,2,3.8321571653408164e-05,0.03731837413894089,E-SD,conversion_rate
+topology × seeding_regime,2,5.983924861571866e-05,0.05827275270000275,E-SD,conversion_rate
+message_condition × inoculation,2,1.7424298942769778e-05,0.016968158637543886,E-SD,conversion_rate
+message_condition × seeding_regime,2,2.564154747236011e-05,0.024970292730409082,E-SD,conversion_rate
+inoculation × seeding_regime,2,1.3551031467699085e-05,0.013196287116141297,E-SD,conversion_rate
+topology × message_condition × inoculation,3,9.304827320010748e-05,0.09061241808320185,E-SD,conversion_rate
+topology × message_condition × seeding_regime,3,9.459558872443449e-05,0.09211922735945165,E-SD,conversion_rate
+topology × inoculation × seeding_regime,3,5.875830758219757e-05,0.05722010897557748,E-SD,conversion_rate
+message_condition × inoculation × seeding_regime,3,6.874533554499223e-05,0.06694569250389526,E-SD,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.00020785512728591028,0.20241381217106008,E-SD,conversion_rate
+topology,1,0.0011524260745206436,0.0016201593300086484,CS-0,mean_total_shift
+message_condition,1,0.7047074748050682,0.9907259263525225,CS-0,mean_total_shift
+inoculation,1,0.0007586491068842893,0.0010665607589906124,CS-0,mean_total_shift
+seeding_regime,1,0.003193132724761028,0.0044891241966469805,CS-0,mean_total_shift
+topology × message_condition,2,0.00019233445121014103,0.0002703969152553405,CS-0,mean_total_shift
+topology × inoculation,2,0.00028564076697410313,0.00040157331031963686,CS-0,mean_total_shift
+topology × seeding_regime,2,3.840367923638611e-05,5.399051669962523e-05,CS-0,mean_total_shift
+message_condition × inoculation,2,0.0001336792196692249,0.00018793538237622608,CS-0,mean_total_shift
+message_condition × seeding_regime,2,0.0006385087426151737,0.0008976592247536251,CS-0,mean_total_shift
+inoculation × seeding_regime,2,4.585058957603215e-06,6.445989216176406e-06,CS-0,mean_total_shift
+topology × message_condition × inoculation,3,7.259753060151475e-05,0.00010206256968678605,CS-0,mean_total_shift
+topology × message_condition × seeding_regime,3,2.9835896969809816e-05,4.194534288450641e-05,CS-0,mean_total_shift
+topology × inoculation × seeding_regime,3,1.7974955529385245e-05,2.527042085501023e-05,CS-0,mean_total_shift
+message_condition × inoculation × seeding_regime,3,1.485233311793177e-05,2.0880424875342015e-05,CS-0,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,6.406664299707376e-05,9.006926490900301e-05,CS-0,mean_total_shift
+topology,1,0.0006217863936696143,0.0020455570498262377,CS-0,mean_signed_shift
+message_condition,1,0.29948629379320935,0.9852520187512246,CS-0,mean_signed_shift
+inoculation,1,0.0018913056948770286,0.006222030164892747,CS-0,mean_signed_shift
+seeding_regime,1,0.0004031108037835862,0.001326156626995571,CS-0,mean_signed_shift
+topology × message_condition,2,0.00016061923194349292,0.0005284062269369398,CS-0,mean_signed_shift
+topology × inoculation,2,0.000484538466313255,0.001594037897531928,CS-0,mean_signed_shift
+topology × seeding_regime,2,4.911608910881525e-05,0.00016158243949901426,CS-0,mean_signed_shift
+message_condition × inoculation,2,0.0003138335957171279,0.0010324518688850492,CS-0,mean_signed_shift
+message_condition × seeding_regime,2,0.00021845484696736417,0.0007186742212957515,CS-0,mean_signed_shift
+inoculation × seeding_regime,2,3.3487297418635306e-06,1.1016673573387155e-05,CS-0,mean_signed_shift
+topology × message_condition × inoculation,3,0.0001257669126044636,0.00041374883293061816,CS-0,mean_signed_shift
+topology × message_condition × seeding_regime,3,5.124090045560692e-05,0.00016857265812430305,CS-0,mean_signed_shift
+topology × inoculation × seeding_regime,3,3.57439636206199e-05,0.00011759073134646607,CS-0,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,1.9211808822361398e-05,6.320313756717018e-05,CS-0,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,0.00010485501119705809,0.00034495271937024516,CS-0,mean_signed_shift
+topology,1,0.0005469170632008137,0.0015232059506133794,CS-0,conversion_rate
+message_condition,1,0.3504656859008118,0.9760738038153092,CS-0,conversion_rate
+inoculation,1,0.0013046238910452183,0.0036334775560344984,CS-0,conversion_rate
+seeding_regime,1,0.0009221942506667915,0.0025683816884706284,CS-0,conversion_rate
+topology × message_condition,2,0.0003860868744152146,0.0010752815447395252,CS-0,conversion_rate
+topology × inoculation,2,0.0006280679807188897,0.001749217477366354,CS-0,conversion_rate
+topology × seeding_regime,2,0.0003010977175090157,0.0008385802270305848,CS-0,conversion_rate
+message_condition × inoculation,2,0.0004805909985833301,0.0013384827757413906,CS-0,conversion_rate
+message_condition × seeding_regime,2,0.0004184400027673063,0.0011653874875646624,CS-0,conversion_rate
+inoculation × seeding_regime,2,0.00012721311620996672,0.0003542982814854045,CS-0,conversion_rate
+topology × message_condition × inoculation,3,0.0009025521605829367,0.0025136769617189855,CS-0,conversion_rate
+topology × message_condition × seeding_regime,3,0.0006773830047415164,0.0018865636000239417,CS-0,conversion_rate
+topology × inoculation × seeding_regime,3,0.0003244815672896993,0.0009037060414012886,CS-0,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.0002886409862582484,0.0008038872754972852,CS-0,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.0012825676798839947,0.003572049317002897,CS-0,conversion_rate
+topology,1,0.0010166429348468298,0.0011288000101785907,CS-15,mean_total_shift
+message_condition,1,0.6769265328862737,0.7516057516568563,CS-15,mean_total_shift
+inoculation,1,0.0006616727302237502,0.0007346691340790112,CS-15,mean_total_shift
+seeding_regime,1,0.1978256065951102,0.21964992730883445,CS-15,mean_total_shift
+topology × message_condition,2,0.00015864589027037024,0.00017614786510955895,CS-15,mean_total_shift
+topology × inoculation,2,0.0003417442000587089,0.000379445765354052,CS-15,mean_total_shift
+topology × seeding_regime,2,8.707073311170488e-05,9.667646432575442e-05,CS-15,mean_total_shift
+message_condition × inoculation,2,9.735209544581291e-05,0.00010809207693623253,CS-15,mean_total_shift
+message_condition × seeding_regime,2,0.023240784046390073,0.025804730814438855,CS-15,mean_total_shift
+inoculation × seeding_regime,2,4.5367426210640716e-05,5.037240648907205e-05,CS-15,mean_total_shift
+topology × message_condition × inoculation,3,8.650361527717809e-05,9.604678147896147e-05,CS-15,mean_total_shift
+topology × message_condition × seeding_regime,3,2.9297299636743546e-05,3.2529407321503566e-05,CS-15,mean_total_shift
+topology × inoculation × seeding_regime,3,3.09512754916863e-05,3.436585146319803e-05,CS-15,mean_total_shift
+message_condition × inoculation × seeding_regime,3,2.7854280933881093e-05,3.092719333796327e-05,CS-15,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,6.441133974366409e-05,7.151726379647639e-05,CS-15,mean_total_shift
+topology,1,0.000495513537249315,0.0011809808820032485,CS-15,mean_signed_shift
+message_condition,1,0.2909627325133678,0.6934652610728193,CS-15,mean_signed_shift
+inoculation,1,0.001721731902018207,0.004103485187318974,CS-15,mean_signed_shift
+seeding_regime,1,0.11099054029503533,0.26452901145604196,CS-15,mean_signed_shift
+topology × message_condition,2,7.742540063615522e-05,0.00018453162438372488,CS-15,mean_signed_shift
+topology × inoculation,2,0.0005859773349966091,0.0013965875357508514,CS-15,mean_signed_shift
+topology × seeding_regime,2,6.613035976088533e-05,0.00015761161850621157,CS-15,mean_signed_shift
+message_condition × inoculation,2,0.0002603277060261311,0.0006204513514994745,CS-15,mean_signed_shift
+message_condition × seeding_regime,2,0.013976951985038899,0.033311931646991776,CS-15,mean_signed_shift
+inoculation × seeding_regime,2,9.511515708877927e-05,0.00022669245876539242,CS-15,mean_signed_shift
+topology × message_condition × inoculation,3,0.00014271595728171382,0.00034014170035014384,CS-15,mean_signed_shift
+topology × message_condition × seeding_regime,3,2.9418096650690728e-05,7.011354305726907e-05,CS-15,mean_signed_shift
+topology × inoculation × seeding_regime,3,5.454048427670777e-05,0.00012998891934123377,CS-15,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,4.70050879893269e-05,0.00011202945247557377,CS-15,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,7.182400408783929e-05,0.00017118155069491723,CS-15,mean_signed_shift
+topology,1,0.0002535821023868626,0.00051634526496565,CS-15,conversion_rate
+message_condition,1,0.3444495585436574,0.7013700765923618,CS-15,conversion_rate
+inoculation,1,0.0008027241450956837,0.0016345112982832852,CS-15,conversion_rate
+seeding_regime,1,0.12415160877695569,0.25279818538632803,CS-15,conversion_rate
+topology × message_condition,2,0.00031419874291355177,0.0006397732002161088,CS-15,conversion_rate
+topology × inoculation,2,0.0009997892616304962,0.0020357763672881157,CS-15,conversion_rate
+topology × seeding_regime,2,0.0002207681723289806,0.00044952936096130197,CS-15,conversion_rate
+message_condition × inoculation,2,0.00018899730746674281,0.0003848373520179692,CS-15,conversion_rate
+message_condition × seeding_regime,2,0.015911471475052008,0.032399025315458345,CS-15,conversion_rate
+inoculation × seeding_regime,2,0.00019077088217739346,0.0003884487145521838,CS-15,conversion_rate
+topology × message_condition × inoculation,3,0.0007868458551864022,0.0016021798374536815,CS-15,conversion_rate
+topology × message_condition × seeding_regime,3,0.0009620819983326423,0.0019589966313548726,CS-15,conversion_rate
+topology × inoculation × seeding_regime,3,0.0005019116187991446,0.001021995185617678,CS-15,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.0002958634849635211,0.0006024388476127108,CS-15,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.0010794002244322032,0.00219788064552817,CS-15,conversion_rate
+topology,1,0.0009512638769253808,0.0005782702716595602,CS-30,mean_total_shift
+message_condition,1,0.6378900402365588,0.38777131751157395,CS-30,mean_total_shift
+inoculation,1,0.000716776200616786,0.0004357259623790905,CS-30,mean_total_shift
+seeding_regime,1,0.896010455854723,0.5446818935158207,CS-30,mean_total_shift
+topology × message_condition,2,0.00019183745964956866,0.00011661737883350519,CS-30,mean_total_shift
+topology × inoculation,2,0.0002566957741880931,0.00015604454103038923,CS-30,mean_total_shift
+topology × seeding_regime,2,0.00021420452634568488,0.0001302142472191689,CS-30,mean_total_shift
+message_condition × inoculation,2,0.0001392010915514108,8.461989883071729e-05,CS-30,mean_total_shift
+message_condition × seeding_regime,2,0.10816323677328255,0.06575208607166505,CS-30,mean_total_shift
+inoculation × seeding_regime,2,0.00015953309579341823,9.697965925220047e-05,CS-30,mean_total_shift
+topology × message_condition × inoculation,3,7.301774120371807e-05,4.438725159869983e-05,CS-30,mean_total_shift
+topology × message_condition × seeding_regime,3,8.339917697774979e-05,5.069809323884392e-05,CS-30,mean_total_shift
+topology × inoculation × seeding_regime,3,5.3808376052399964e-05,3.270993989380918e-05,CS-30,mean_total_shift
+message_condition × inoculation × seeding_regime,3,4.8436131889761924e-05,2.944416983073143e-05,CS-30,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,6.414162213319585e-05,3.8991487173392935e-05,CS-30,mean_total_shift
+topology,1,0.0005313642522276579,0.0006540476378054915,CS-30,mean_signed_shift
+message_condition,1,0.28404846730435207,0.3496306503191067,CS-30,mean_signed_shift
+inoculation,1,0.0016224086133383563,0.001996996442008679,CS-30,mean_signed_shift
+seeding_regime,1,0.46344793433125564,0.5704505439054729,CS-30,mean_signed_shift
+topology × message_condition,2,0.0001260527197461947,0.00015515624779672557,CS-30,mean_signed_shift
+topology × inoculation,2,0.0004918873934361381,0.0006054562127475781,CS-30,mean_signed_shift
+topology × seeding_regime,2,0.0002049011069376605,0.00025220944844232726,CS-30,mean_signed_shift
+message_condition × inoculation,2,0.00027584978563427454,0.0003395390260576839,CS-30,mean_signed_shift
+message_condition × seeding_regime,2,0.06086489441768084,0.07491761113449764,CS-30,mean_signed_shift
+inoculation × seeding_regime,2,0.0003671475080153641,0.0004519159114240516,CS-30,mean_signed_shift
+topology × message_condition × inoculation,3,0.0001330474682401661,0.0001637659702429496,CS-30,mean_signed_shift
+topology × message_condition × seeding_regime,3,6.789650750016474e-05,8.357270960467171e-05,CS-30,mean_signed_shift
+topology × inoculation × seeding_regime,3,7.795378640984563e-05,9.595205105651164e-05,CS-30,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,8.577442984525341e-05,0.00010557835418775047,CS-30,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,7.880892684752894e-05,9.700462954841044e-05,CS-30,mean_signed_shift
+topology,1,0.00017733022795093158,0.0001865658838062455,CS-30,conversion_rate
+message_condition,1,0.34494530415005337,0.36291063445413446,CS-30,conversion_rate
+inoculation,1,0.0013385521512591712,0.001408266193564697,CS-30,conversion_rate
+seeding_regime,1,0.5237919574778689,0.5510719216156548,CS-30,conversion_rate
+topology × message_condition,2,0.0003279720498934324,0.0003450533846324581,CS-30,conversion_rate
+topology × inoculation,2,0.0007620655528506445,0.0008017552056901232,CS-30,conversion_rate
+topology × seeding_regime,2,0.0005159203914379962,0.0005427903912068943,CS-30,conversion_rate
+message_condition × inoculation,2,0.0005720892182128345,0.0006018845847389033,CS-30,conversion_rate
+message_condition × seeding_regime,2,0.07327498998227266,0.07709127442569595,CS-30,conversion_rate
+inoculation × seeding_regime,2,0.0002852533923078937,0.00030010986767229427,CS-30,conversion_rate
+topology × message_condition × inoculation,3,0.0010501526155800023,0.001104846326094706,CS-30,conversion_rate
+topology × message_condition × seeding_regime,3,0.0007610648359540617,0.0008007023697782307,CS-30,conversion_rate
+topology × inoculation × seeding_regime,3,0.00048327563296601816,0.0005084454389314635,CS-30,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.0004321531149875657,0.00045466037442633126,CS-30,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.001778464089683518,0.0018710894839727313,CS-30,conversion_rate
+topology,1,0.0009798027507788337,0.00032739778575294876,CS-45,mean_total_shift
+message_condition,1,0.577182370084406,0.19286354298461084,CS-45,mean_total_shift
+inoculation,1,0.0007493844795292588,0.000250404297273591,CS-45,mean_total_shift
+seeding_regime,1,2.1490794208720847,0.7181076428306243,CS-45,mean_total_shift
+topology × message_condition,2,0.00016429699030684475,5.4899285381243563e-05,CS-45,mean_total_shift
+topology × inoculation,2,0.000216452526482011,7.232688195099604e-05,CS-45,mean_total_shift
+topology × seeding_regime,2,0.0005934877947493256,0.00019831194566240773,CS-45,mean_total_shift
+message_condition × inoculation,2,0.0001235698615019709,4.129045260322593e-05,CS-45,mean_total_shift
+message_condition × seeding_regime,2,0.2627616530376544,0.08780092045764346,CS-45,mean_total_shift
+inoculation × seeding_regime,2,0.000357107117415989,0.00011932613929250337,CS-45,mean_total_shift
+topology × message_condition × inoculation,3,8.637519750509526e-05,2.8861981031042345e-05,CS-45,mean_total_shift
+topology × message_condition × seeding_regime,3,0.00010881237832105484,3.6359289353400644e-05,CS-45,mean_total_shift
+topology × inoculation × seeding_regime,3,0.00013710603145877798,4.5813518156891204e-05,CS-45,mean_total_shift
+message_condition × inoculation × seeding_regime,3,6.726104619447781e-05,2.2475051814249865e-05,CS-45,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,9.10591227176738e-05,3.0427098848900746e-05,CS-45,mean_total_shift
+topology,1,0.0005989583755262989,0.0004083040311394086,CS-45,mean_signed_shift
+message_condition,1,0.27437231985126376,0.18703691075344736,CS-45,mean_signed_shift
+inoculation,1,0.0016226872585095842,0.001106169937678629,CS-45,mean_signed_shift
+seeding_regime,1,1.0478559121779798,0.7143130649431008,CS-45,mean_signed_shift
+topology × message_condition,2,0.00013199793277773875,8.998169197961736e-05,CS-45,mean_signed_shift
+topology × inoculation,2,0.0004047314066581132,0.00027590141756015063,CS-45,mean_signed_shift
+topology × seeding_regime,2,0.0004722437003015223,0.00032192388384898055,CS-45,mean_signed_shift
+message_condition × inoculation,2,0.00023662526093015668,0.00016130511209948886,CS-45,mean_signed_shift
+message_condition × seeding_regime,2,0.1397606592613314,0.09527346624205833,CS-45,mean_signed_shift
+inoculation × seeding_regime,2,0.0007736198421186558,0.0005273690343321876,CS-45,mean_signed_shift
+topology × message_condition × inoculation,3,0.00013244289917507812,9.028502119443232e-05,CS-45,mean_signed_shift
+topology × message_condition × seeding_regime,3,9.568296049811131e-05,6.522613269812482e-05,CS-45,mean_signed_shift
+topology × inoculation × seeding_regime,3,0.00021133085511393368,0.00014406216453912622,CS-45,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,0.00014270071666722117,9.727767444692941e-05,CS-45,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,0.00013019398697577955,8.875195987636436e-05,CS-45,mean_signed_shift
+topology,1,0.00023591389382744799,0.00013332591017352281,CS-45,conversion_rate
+message_condition,1,0.33821907896310915,0.1911433269538134,CS-45,conversion_rate
+inoculation,1,0.0012181107597868945,0.0006884110261837136,CS-45,conversion_rate
+seeding_regime,1,1.2429654746191399,0.7024575811506552,CS-45,conversion_rate
+topology × message_condition,2,0.0004188991565605149,0.0002367393900089731,CS-45,conversion_rate
+topology × inoculation,2,0.0007715928244878499,0.00043606298017973195,CS-45,conversion_rate
+topology × seeding_regime,2,0.00030496670566759754,0.0001723508647417467,CS-45,conversion_rate
+message_condition × inoculation,2,0.00030484392179847,0.00017228147386849006,CS-45,conversion_rate
+message_condition × seeding_regime,2,0.18036594094151748,0.1019331793061771,CS-45,conversion_rate
+inoculation × seeding_regime,2,0.0005373988456625067,0.0003037090739410195,CS-45,conversion_rate
+topology × message_condition × inoculation,3,0.0007511409559549098,0.0004245046783660292,CS-45,conversion_rate
+topology × message_condition × seeding_regime,3,0.0008804491087504029,0.0004975827276687372,CS-45,conversion_rate
+topology × inoculation × seeding_regime,3,0.0007860273672561924,0.00044422061142944337,CS-45,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.00027969410313155585,0.00015806814200378048,CS-45,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.0014131835163515571,0.0007986557107891257,CS-45,conversion_rate
+topology,1,0.0005465372579648934,0.00015469093059115925,CS-45-R,mean_total_shift
+message_condition,1,0.653048095391812,0.18483756802437892,CS-45-R,mean_total_shift
+inoculation,1,0.0007675154748178788,0.0002172362109123026,CS-45-R,mean_total_shift
+seeding_regime,1,2.550784159495007,0.7219693984610588,CS-45-R,mean_total_shift
+topology × message_condition,2,6.306450661008878e-05,1.784966545759921e-05,CS-45-R,mean_total_shift
+topology × inoculation,2,0.00033788586392935753,9.563461221190437e-05,CS-45-R,mean_total_shift
+topology × seeding_regime,2,0.00037443381177570956,0.00010597907817677095,CS-45-R,mean_total_shift
+message_condition × inoculation,2,0.00012199479095720278,3.452918802043655e-05,CS-45-R,mean_total_shift
+message_condition × seeding_regime,2,0.3259883272708053,0.09226715465867733,CS-45-R,mean_total_shift
+inoculation × seeding_regime,2,0.0004414661214844351,0.00012495178354571327,CS-45-R,mean_total_shift
+topology × message_condition × inoculation,3,8.996339909494999e-05,2.5463080004758962e-05,CS-45-R,mean_total_shift
+topology × message_condition × seeding_regime,3,6.0089810014041234e-05,1.7007712639263618e-05,CS-45-R,mean_total_shift
+topology × inoculation × seeding_regime,3,0.00028649999486418665,8.109044749287739e-05,CS-45-R,mean_total_shift
+message_condition × inoculation × seeding_regime,3,6.195648137108378e-05,1.753605197042651e-05,CS-45-R,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,0.00011980747799666958,3.391009486177632e-05,CS-45-R,mean_total_shift
+topology,1,0.0003833516738841356,0.00022884058770619343,CS-45-R,mean_signed_shift
+message_condition,1,0.3092891455898687,0.18462919212222856,CS-45-R,mean_signed_shift
+inoculation,1,0.0017126508516053514,0.0010223615915013237,CS-45-R,mean_signed_shift
+seeding_regime,1,1.1889527208596042,0.7097416235063144,CS-45-R,mean_signed_shift
+topology × message_condition,2,7.57537174314038e-05,4.52209456718607e-05,CS-45-R,mean_signed_shift
+topology × inoculation,2,0.0005126271192033849,0.0003060111621374876,CS-45-R,mean_signed_shift
+topology × seeding_regime,2,0.0002852407410744995,0.0001702735719499356,CS-45-R,mean_signed_shift
+message_condition × inoculation,2,0.00028111735860114617,0.00016781213162549662,CS-45-R,mean_signed_shift
+message_condition × seeding_regime,2,0.1719637480632834,0.10265322379381449,CS-45-R,mean_signed_shift
+inoculation × seeding_regime,2,0.0009500057914808568,0.0005671029982576098,CS-45-R,mean_signed_shift
+topology × message_condition × inoculation,3,0.000123465491364938,7.370234051443282e-05,CS-45-R,mean_signed_shift
+topology × message_condition × seeding_regime,3,7.017511376972152e-05,4.1890815591601444e-05,CS-45-R,mean_signed_shift
+topology × inoculation × seeding_regime,3,0.0003143452364282595,0.00018764740980008578,CS-45-R,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,0.00013167103300459893,7.860061303856736e-05,CS-45-R,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,0.00014489800009931386,8.64964098479479e-05,CS-45-R,mean_signed_shift
+topology,1,0.00027468792255771503,0.00013683961025134033,CS-45-R,conversion_rate
+message_condition,1,0.3731355939406027,0.18588268741595743,CS-45-R,conversion_rate
+inoculation,1,0.0018061401916236537,0.0008997538646029573,CS-45-R,conversion_rate
+seeding_regime,1,1.4108221081634584,0.7028206614162247,CS-45-R,conversion_rate
+topology × message_condition,2,0.00019622955410919518,9.775448244709291e-05,CS-45-R,conversion_rate
+topology × inoculation,2,0.0016806827434461043,0.0008372554913512665,CS-45-R,conversion_rate
+topology × seeding_regime,2,0.0007176585315014083,0.0003575115819792484,CS-45-R,conversion_rate
+message_condition × inoculation,2,0.00038442157477569516,0.00019150495578654317,CS-45-R,conversion_rate
+message_condition × seeding_regime,2,0.21029921637979232,0.10476348045308269,CS-45-R,conversion_rate
+inoculation × seeding_regime,2,0.001350779350900666,0.0006729095265335833,CS-45-R,conversion_rate
+topology × message_condition × inoculation,3,0.0009901753998509122,0.000493269651371712,CS-45-R,conversion_rate
+topology × message_condition × seeding_regime,3,0.0009005216484099243,0.0004486073877726357,CS-45-R,conversion_rate
+topology × inoculation × seeding_regime,3,0.002736644085358675,0.0013632973250159337,CS-45-R,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.000584038921510821,0.0002909471142633214,CS-45-R,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.0014925202418747396,0.0007435197233597459,CS-45-R,conversion_rate
+topology,1,0.002576148053464831,0.0012737406471917325,D-A95,mean_total_shift
+message_condition,1,1.9899497037512386,0.9839030098157757,D-A95,mean_total_shift
+inoculation,1,0.0025607419740862956,0.0012661233250848335,D-A95,mean_total_shift
+seeding_regime,1,0.020843958498294738,0.01030600595798327,D-A95,mean_total_shift
+topology × message_condition,2,0.00033571275543931023,0.00016598851211546817,D-A95,mean_total_shift
+topology × inoculation,2,0.0010447731061106772,0.0005165735604970726,D-A95,mean_total_shift
+topology × seeding_regime,2,0.0001330631038724099,6.57912047468812e-05,D-A95,mean_total_shift
+message_condition × inoculation,2,0.00036940219950443165,0.0001826457901120968,D-A95,mean_total_shift
+message_condition × seeding_regime,2,0.004076070008232957,0.0020153562382808662,D-A95,mean_total_shift
+inoculation × seeding_regime,2,3.6813404222270363e-06,1.8201876734661693e-06,D-A95,mean_total_shift
+topology × message_condition × inoculation,3,0.0003210205583656922,0.00015872415920529715,D-A95,mean_total_shift
+topology × message_condition × seeding_regime,3,9.168579281970679e-05,4.5332767628549164e-05,D-A95,mean_total_shift
+topology × inoculation × seeding_regime,3,6.351211063870474e-05,3.140268153480221e-05,D-A95,mean_total_shift
+message_condition × inoculation × seeding_regime,3,6.41221743480358e-06,3.170431906798141e-06,D-A95,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,0.0001300769052008377,6.431472026321353e-05,D-A95,mean_total_shift
+topology,1,0.0020823281929518373,0.0019857821322619373,D-A95,mean_signed_shift
+message_condition,1,1.0304553506204728,0.9826788256922828,D-A95,mean_signed_shift
+inoculation,1,0.005674685128709308,0.0054115813121798865,D-A95,mean_signed_shift
+seeding_regime,1,0.004961808674877294,0.00473175700335029,D-A95,mean_signed_shift
+topology × message_condition,2,0.00040501297051687146,0.00038623475536132086,D-A95,mean_signed_shift
+topology × inoculation,2,0.0015838642559093457,0.0015104292157013858,D-A95,mean_signed_shift
+topology × seeding_regime,2,7.193247537333382e-05,6.859736366689148e-05,D-A95,mean_signed_shift
+message_condition × inoculation,2,0.0007863391968150335,0.0007498809900465161,D-A95,mean_signed_shift
+message_condition × seeding_regime,2,0.0017934615326316017,0.0017103086239976376,D-A95,mean_signed_shift
+inoculation × seeding_regime,2,7.792423034197471e-06,7.4311314041232855e-06,D-A95,mean_signed_shift
+topology × message_condition × inoculation,3,0.000415436511025602,0.0003961750138504515,D-A95,mean_signed_shift
+topology × message_condition × seeding_regime,3,9.050040121327818e-05,8.630439730881607e-05,D-A95,mean_signed_shift
+topology × inoculation × seeding_regime,3,4.4380828224962685e-05,4.232313426981276e-05,D-A95,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,4.333134250034121e-05,4.1322307403485305e-05,D-A95,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,0.0002024326092706641,0.000193046926914534,D-A95,mean_signed_shift
+topology,1,0.001142697819254579,0.0008576492426291437,D-A95,conversion_rate
+message_condition,1,1.3023996841799164,0.9775131131920775,D-A95,conversion_rate
+inoculation,1,0.0047896497088123526,0.0035948606674523083,D-A95,conversion_rate
+seeding_regime,1,0.006340977661520056,0.00475920632497453,D-A95,conversion_rate
+topology × message_condition,2,0.0006479486870321072,0.00048631640958074577,D-A95,conversion_rate
+topology × inoculation,2,0.004368644620074505,0.0032788762580880097,D-A95,conversion_rate
+topology × seeding_regime,2,0.0006131281066896433,0.0004601819024035967,D-A95,conversion_rate
+message_condition × inoculation,2,0.0008271735771860911,0.0006208332422120773,D-A95,conversion_rate
+message_condition × seeding_regime,2,0.0014169955635949805,0.0010635227891822388,D-A95,conversion_rate
+inoculation × seeding_regime,2,0.0002962893326310511,0.00022237928299879107,D-A95,conversion_rate
+topology × message_condition × inoculation,3,0.0022192960826017405,0.0016656876142940808,D-A95,conversion_rate
+topology × message_condition × seeding_regime,3,0.0014128152131649419,0.0010603852366991285,D-A95,conversion_rate
+topology × inoculation × seeding_regime,3,0.0025085368699411005,0.0018827766276964884,D-A95,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.0007961313879993881,0.0005975345979012885,D-A95,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.002580351070016418,0.0019366766118102167,D-A95,conversion_rate
+topology,1,0.0003608945109675465,0.0001588211213947504,S-A06,mean_total_shift
+message_condition,1,0.019570746272507704,0.008612621625080117,S-A06,mean_total_shift
+inoculation,1,0.0004914525716293206,0.00021627662978094316,S-A06,mean_total_shift
+seeding_regime,1,2.221405150006856,0.9775877611723741,S-A06,mean_total_shift
+topology × message_condition,2,1.35219486372129e-05,5.950689136963599e-06,S-A06,mean_total_shift
+topology × inoculation,2,0.00011711698232754288,5.154040835301646e-05,S-A06,mean_total_shift
+topology × seeding_regime,2,0.0005124180602620321,0.00022550304446458338,S-A06,mean_total_shift
+message_condition × inoculation,2,3.1535157152273036e-05,1.3877875307264156e-05,S-A06,mean_total_shift
+message_condition × seeding_regime,2,0.028870508367418335,0.012705226526879023,S-A06,mean_total_shift
+inoculation × seeding_regime,2,0.000671781111391212,0.0002956349465025762,S-A06,mean_total_shift
+topology × message_condition × inoculation,3,1.9122654763344127e-05,8.415427171271356e-06,S-A06,mean_total_shift
+topology × message_condition × seeding_regime,3,1.5470065461542504e-05,6.808009182698046e-06,S-A06,mean_total_shift
+topology × inoculation × seeding_regime,3,0.00018615996503568155,8.192458878498489e-05,S-A06,mean_total_shift
+message_condition × inoculation × seeding_regime,3,4.2240077973154655e-05,1.8588857263338623e-05,S-A06,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,2.51071877812592e-05,1.1049078324293888e-05,S-A06,mean_total_shift
+topology,1,0.0003540107620731896,0.00022860633689835647,S-A06,mean_signed_shift
+message_condition,1,0.030236978246554677,0.019525860726208842,S-A06,mean_signed_shift
+inoculation,1,0.000839082712318821,0.0005418468752039962,S-A06,mean_signed_shift
+seeding_regime,1,1.4732438633749891,0.9513634020383515,S-A06,mean_signed_shift
+topology × message_condition,2,2.135961692669927e-05,1.3793207174180011e-05,S-A06,mean_signed_shift
+topology × inoculation,2,0.0001446209028664676,9.339053606624808e-05,S-A06,mean_signed_shift
+topology × seeding_regime,2,0.0005478231580517967,0.0003537628197993,S-A06,mean_signed_shift
+message_condition × inoculation,2,2.9449648776710274e-05,1.901743407562006e-05,S-A06,mean_signed_shift
+message_condition × seeding_regime,2,0.04171012342250524,0.02693477020686145,S-A06,mean_signed_shift
+inoculation × seeding_regime,2,0.0011147136012901182,0.0007198385483801318,S-A06,mean_signed_shift
+topology × message_condition × inoculation,3,2.5744409964695292e-05,1.6624735426607682e-05,S-A06,mean_signed_shift
+topology × message_condition × seeding_regime,3,2.232748014963093e-05,1.4418215478213716e-05,S-A06,mean_signed_shift
+topology × inoculation × seeding_regime,3,0.00019301849455133357,0.0001246438123366801,S-A06,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,4.022605691966774e-05,2.597641796654991e-05,S-A06,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,3.723992388904307e-05,2.404808977216253e-05,S-A06,mean_signed_shift
+topology,1,0.000222292601645308,0.00015693274697106053,S-A06,conversion_rate
+message_condition,1,0.01839195276760105,0.012984236311143798,S-A06,conversion_rate
+inoculation,1,0.0007033034323456148,0.0004965137785749713,S-A06,conversion_rate
+seeding_regime,1,1.3654509482982549,0.9639725595213378,S-A06,conversion_rate
+topology × message_condition,2,5.875871104134289e-05,4.1482109003834943e-05,S-A06,conversion_rate
+topology × inoculation,2,0.00021939154005948258,0.00015488467357398797,S-A06,conversion_rate
+topology × seeding_regime,2,0.0005780464596103485,0.00040808564078211154,S-A06,conversion_rate
+message_condition × inoculation,2,0.00014905417260191456,0.00010522833679926375,S-A06,conversion_rate
+message_condition × seeding_regime,2,0.028056518352181925,0.0198071661533627,S-A06,conversion_rate
+inoculation × seeding_regime,2,0.0008026004911070306,0.0005666148979205449,S-A06,conversion_rate
+topology × message_condition × inoculation,3,0.0003266338197355709,0.00023059491051593121,S-A06,conversion_rate
+topology × message_condition × seeding_regime,3,0.00035132287298700327,0.0002480247346224676,S-A06,conversion_rate
+topology × inoculation × seeding_regime,3,0.0003779343891325837,0.0002668117671142384,S-A06,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.00022800734233063835,0.00016096720402153475,S-A06,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.000566447690895977,0.0003998972142561911,S-A06,conversion_rate
+topology,1,0.0045256627155442,0.00021988280089313734,S-A18,mean_total_shift
+message_condition,1,0.14282072952956154,0.006939054898346521,S-A18,mean_total_shift
+inoculation,1,0.003286732285970274,0.00015968841388529006,S-A18,mean_total_shift
+seeding_regime,1,20.21860185396032,0.9823363085636811,S-A18,mean_total_shift
+topology × message_condition,2,0.00015735919901255224,7.645417610627213e-06,S-A18,mean_total_shift
+topology × inoculation,2,0.00039863726131230716,1.9368097683607312e-05,S-A18,mean_total_shift
+topology × seeding_regime,2,0.006010350958536748,0.0002920175201246514,S-A18,mean_total_shift
+message_condition × inoculation,2,0.0001704783957426903,8.282823865535002e-06,S-A18,mean_total_shift
+message_condition × seeding_regime,2,0.2008552578430347,0.009758707054537774,S-A18,mean_total_shift
+inoculation × seeding_regime,2,0.00411914639143518,0.00020013189288868938,S-A18,mean_total_shift
+topology × message_condition × inoculation,3,0.00015498075017245094,7.529858845952541e-06,S-A18,mean_total_shift
+topology × message_condition × seeding_regime,3,0.00023993947401734772,1.1657643732607784e-05,S-A18,mean_total_shift
+topology × inoculation × seeding_regime,3,0.0004594791241885332,2.23241463468962e-05,S-A18,mean_total_shift
+message_condition × inoculation × seeding_regime,3,0.00014333840742608572,6.964206676771644e-06,S-A18,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,0.00021480901112269635,1.0436660880739968e-05,S-A18,mean_total_shift
+topology,1,0.004081842993777049,0.00028295385046069884,S-A18,mean_signed_shift
+message_condition,1,0.2414895503914755,0.016740084866924985,S-A18,mean_signed_shift
+inoculation,1,0.00643292985394866,0.0004459314762212471,S-A18,mean_signed_shift
+seeding_regime,1,13.844711779614899,0.9597170965499904,S-A18,mean_signed_shift
+topology × message_condition,2,0.0001961524856659569,1.3597314051822903e-05,S-A18,mean_signed_shift
+topology × inoculation,2,0.0007323122014244766,5.076397045361819e-05,S-A18,mean_signed_shift
+topology × seeding_regime,2,0.006150223031271551,0.000426334205049879,S-A18,mean_signed_shift
+message_condition × inoculation,2,0.00019143397794302297,1.3270226525264888e-05,S-A18,mean_signed_shift
+message_condition × seeding_regime,2,0.3123247806162013,0.02165039160114108,S-A18,mean_signed_shift
+inoculation × seeding_regime,2,0.007878976740769872,0.0005461716214685185,S-A18,mean_signed_shift
+topology × message_condition × inoculation,3,0.00014752797668171613,1.0226657202740957e-05,S-A18,mean_signed_shift
+topology × message_condition × seeding_regime,3,0.0002948050491351495,2.043592169400386e-05,S-A18,mean_signed_shift
+topology × inoculation × seeding_regime,3,0.0007057897829998439,4.892543319772159e-05,S-A18,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,0.00021383347176850975,1.4822962148843436e-05,S-A18,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,0.0002739946667720261,1.899334346936801e-05,S-A18,mean_signed_shift
+topology,1,0.011795591767223567,0.00040289600209189775,S-A18,conversion_rate
+message_condition,1,0.5792554285767426,0.019785331755214776,S-A18,conversion_rate
+inoculation,1,0.01080645021345882,0.00036911039935324114,S-A18,conversion_rate
+seeding_regime,1,27.618726425576117,0.9433587292037693,S-A18,conversion_rate
+topology × message_condition,2,0.0020555428102948525,7.02101256757442e-05,S-A18,conversion_rate
+topology × inoculation,2,0.0029961713870371616,0.00010233869544160607,S-A18,conversion_rate
+topology × seeding_regime,2,0.01988130769235852,0.0006790756702743663,S-A18,conversion_rate
+message_condition × inoculation,2,0.0010396538989078108,3.551092710694961e-05,S-A18,conversion_rate
+message_condition × seeding_regime,2,0.9920649978626166,0.033885457325235666,S-A18,conversion_rate
+inoculation × seeding_regime,2,0.01787239897013393,0.0006104584013213275,S-A18,conversion_rate
+topology × message_condition × inoculation,3,0.0018664032129763752,6.37497810740742e-05,S-A18,conversion_rate
+topology × message_condition × seeding_regime,3,0.004809260590246112,0.00016426745712007262,S-A18,conversion_rate
+topology × inoculation × seeding_regime,3,0.006925076737729796,0.00023653630838291241,S-A18,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.002321997454881597,7.931128084975762e-05,S-A18,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.004596979111259003,0.00015701666708851895,S-A18,conversion_rate
+topology,1,4.598071588499926e-07,0.008784177266385635,J-S06-D05,mean_total_shift
+message_condition,1,4.3776222330946326e-05,0.8363029796436761,J-S06-D05,mean_total_shift
+inoculation,1,1.5663087932349186e-06,0.029922835755940756,J-S06-D05,mean_total_shift
+seeding_regime,1,3.1379476789018766e-08,0.0005994749784465622,J-S06-D05,mean_total_shift
+topology × message_condition,2,7.848975789024029e-07,0.014994719713106796,J-S06-D05,mean_total_shift
+topology × inoculation,2,5.086180115330115e-07,0.009716662057539032,J-S06-D05,mean_total_shift
+topology × seeding_regime,2,8.429681771742778e-08,0.0016104103113010824,J-S06-D05,mean_total_shift
+message_condition × inoculation,2,2.1921614272508207e-07,0.004187915347308963,J-S06-D05,mean_total_shift
+message_condition × seeding_regime,2,5.7011233992322846e-08,0.0010891452556251611,J-S06-D05,mean_total_shift
+inoculation × seeding_regime,2,4.670987749781252e-07,0.008923476638731529,J-S06-D05,mean_total_shift
+topology × message_condition × inoculation,3,6.662141634410063e-07,0.012727386245310316,J-S06-D05,mean_total_shift
+topology × message_condition × seeding_regime,3,5.154463372022893e-07,0.009847110707493863,J-S06-D05,mean_total_shift
+topology × inoculation × seeding_regime,3,3.2671624763993206e-07,0.006241602332280775,J-S06-D05,mean_total_shift
+message_condition × inoculation × seeding_regime,3,3.140041999397572e-07,0.005998750784043973,J-S06-D05,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,2.567694409379327e-06,0.04905335296280965,J-S06-D05,mean_total_shift
+topology,1,6.94277541798165e-07,0.005784036646392569,J-S06-D05,mean_signed_shift
+message_condition,1,0.00010911336308187297,0.9090250694875052,J-S06-D05,mean_signed_shift
+inoculation,1,3.4822645898167078e-06,0.02901079868977012,J-S06-D05,mean_signed_shift
+seeding_regime,1,1.984971974669561e-09,1.6536831385637237e-05,J-S06-D05,mean_signed_shift
+topology × message_condition,2,7.595109584555295e-07,0.00632749722202686,J-S06-D05,mean_signed_shift
+topology × inoculation,2,7.314352294284683e-07,0.006093597901092296,J-S06-D05,mean_signed_shift
+topology × seeding_regime,2,2.5679924218119096e-07,0.002139398350254651,J-S06-D05,mean_signed_shift
+message_condition × inoculation,2,2.8233899539017125e-07,0.0023521704184940543,J-S06-D05,mean_signed_shift
+message_condition × seeding_regime,2,4.975840983861054e-07,0.00414538060999836,J-S06-D05,mean_signed_shift
+inoculation × seeding_regime,2,1.1732652348827626e-07,0.0009774490324034014,J-S06-D05,mean_signed_shift
+topology × message_condition × inoculation,3,5.248502236681864e-07,0.004372535109952696,J-S06-D05,mean_signed_shift
+topology × message_condition × seeding_regime,3,6.244759554531091e-07,0.0052025185803602535,J-S06-D05,mean_signed_shift
+topology × inoculation × seeding_regime,3,3.544560054696892e-07,0.002952978314494611,J-S06-D05,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,4.992960648947511e-07,0.004159643028739081,J-S06-D05,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,2.093429153845295e-06,0.01744038977713016,J-S06-D05,mean_signed_shift
+topology,1,7.751552814971192e-06,0.0213908181159658,J-S06-D05,conversion_rate
+message_condition,1,4.318059750004176e-05,0.11915913228097556,J-S06-D05,conversion_rate
+inoculation,1,3.6780562316545995e-06,0.010149789822713154,J-S06-D05,conversion_rate
+seeding_regime,1,4.335323647756236e-06,0.011963553862897039,J-S06-D05,conversion_rate
+topology × message_condition,2,2.1493312740726903e-05,0.059311928141480154,J-S06-D05,conversion_rate
+topology × inoculation,2,9.461750251860429e-06,0.026110197985794434,J-S06-D05,conversion_rate
+topology × seeding_regime,2,1.3005223705299927e-05,0.03588859954617382,J-S06-D05,conversion_rate
+message_condition × inoculation,2,8.923630642635968e-06,0.024625228591878514,J-S06-D05,conversion_rate
+message_condition × seeding_regime,2,1.2118087236857293e-05,0.033440499753336746,J-S06-D05,conversion_rate
+inoculation × seeding_regime,2,1.1874624478153055e-06,0.0032768651452258894,J-S06-D05,conversion_rate
+topology × message_condition × inoculation,3,5.659615691042786e-05,0.15618007480971055,J-S06-D05,conversion_rate
+topology × message_condition × seeding_regime,3,4.91375580489651e-05,0.13559767855262042,J-S06-D05,conversion_rate
+topology × inoculation × seeding_regime,3,2.7484631452821634e-05,0.07584528757337058,J-S06-D05,conversion_rate
+message_condition × inoculation × seeding_regime,3,8.02296682815608e-06,0.022139799375430244,J-S06-D05,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,9.600126542082862e-05,0.264920546442427,J-S06-D05,conversion_rate
+topology,1,0.00015584859459448144,0.028011128254904302,J-S06-D50,mean_total_shift
+message_condition,1,0.004859852513219768,0.8734756473225089,J-S06-D50,mean_total_shift
+inoculation,1,0.00013309002614839626,0.023920663523412374,J-S06-D50,mean_total_shift
+seeding_regime,1,0.00030493480719648254,0.054806833619452114,J-S06-D50,mean_total_shift
+topology × message_condition,2,3.6564757115971694e-06,0.0006571891802104035,J-S06-D50,mean_total_shift
+topology × inoculation,2,5.049052961751487e-05,0.00907481202800871,J-S06-D50,mean_total_shift
+topology × seeding_regime,2,4.5099807395397986e-06,0.0008105921599813436,J-S06-D50,mean_total_shift
+message_condition × inoculation,2,9.98616666909695e-06,0.0017948432327591236,J-S06-D50,mean_total_shift
+message_condition × seeding_regime,2,3.5511520921566522e-06,0.0006382590549815198,J-S06-D50,mean_total_shift
+inoculation × seeding_regime,2,5.351254473947892e-07,9.617967732363022e-05,J-S06-D50,mean_total_shift
+topology × message_condition × inoculation,3,9.902887453380749e-06,0.0017798752133267755,J-S06-D50,mean_total_shift
+topology × message_condition × seeding_regime,3,5.194189399525609e-06,0.0009335670034686867,J-S06-D50,mean_total_shift
+topology × inoculation × seeding_regime,3,4.108608788462738e-06,0.0007384523936344303,J-S06-D50,mean_total_shift
+message_condition × inoculation × seeding_regime,3,6.321999885962326e-06,0.0011362717135432652,J-S06-D50,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,1.1826910854827698e-05,0.00212568562248446,J-S06-D50,mean_total_shift
+topology,1,0.00012151934689630334,0.011669610792245946,J-S06-D50,mean_signed_shift
+message_condition,1,0.009857863195944717,0.9466593565388892,J-S06-D50,mean_signed_shift
+inoculation,1,0.00027487227747479846,0.026396228893875898,J-S06-D50,mean_signed_shift
+seeding_regime,1,4.5264802898277966e-06,0.00043468192176952764,J-S06-D50,mean_signed_shift
+topology × message_condition,2,5.592828025230423e-06,0.0005370842417224179,J-S06-D50,mean_signed_shift
+topology × inoculation,2,8.034755461282635e-05,0.007715847018504112,J-S06-D50,mean_signed_shift
+topology × seeding_regime,2,8.399949064937125e-06,0.0008066545679031168,J-S06-D50,mean_signed_shift
+message_condition × inoculation,2,1.5791993882104463e-05,0.0015165191958688372,J-S06-D50,mean_signed_shift
+message_condition × seeding_regime,2,2.9674720077813715e-06,0.00028496897203737916,J-S06-D50,mean_signed_shift
+inoculation × seeding_regime,2,1.4977842806267053e-06,0.00014383355450859023,J-S06-D50,mean_signed_shift
+topology × message_condition × inoculation,3,7.698759492788532e-06,0.000739318710629805,J-S06-D50,mean_signed_shift
+topology × message_condition × seeding_regime,3,9.864107127202995e-06,0.0009472589668022642,J-S06-D50,mean_signed_shift
+topology × inoculation × seeding_regime,3,4.058888521776263e-06,0.00038977866905968663,J-S06-D50,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,5.6477317804323746e-06,0.0005423566980892733,J-S06-D50,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,1.2667812235890585e-05,0.0012165012580938339,J-S06-D50,mean_signed_shift
+topology,1,0.00011687636964602712,0.01776677136072574,J-S06-D50,conversion_rate
+message_condition,1,0.004533089249858015,0.6890901942275445,J-S06-D50,conversion_rate
+inoculation,1,1.894192759471361e-05,0.002879426335074722,J-S06-D50,conversion_rate
+seeding_regime,1,3.848752527055947e-05,0.005850618596326567,J-S06-D50,conversion_rate
+topology × message_condition,2,0.00012531243968094338,0.019049166835083474,J-S06-D50,conversion_rate
+topology × inoculation,2,6.273578531057152e-05,0.009536678433153136,J-S06-D50,conversion_rate
+topology × seeding_regime,2,0.00022207545066306672,0.03375843867079725,J-S06-D50,conversion_rate
+message_condition × inoculation,2,0.00011502405440560592,0.0174851946702089,J-S06-D50,conversion_rate
+message_condition × seeding_regime,2,6.838217257180979e-05,0.0103950048150245,J-S06-D50,conversion_rate
+inoculation × seeding_regime,2,5.538371731718744e-06,0.0008419065767200479,J-S06-D50,conversion_rate
+topology × message_condition × inoculation,3,0.00021583785807225905,0.03281024117169736,J-S06-D50,conversion_rate
+topology × message_condition × seeding_regime,3,0.0001760011587175628,0.026754530069920193,J-S06-D50,conversion_rate
+topology × inoculation × seeding_regime,3,0.000253779780852711,0.03857792089231329,J-S06-D50,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.0001290845618396319,0.019622579853823867,J-S06-D50,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.0004972018264258931,0.07558132749158643,J-S06-D50,conversion_rate
+topology,1,0.00041105002547828375,0.018480847852747784,J-S06-D95,mean_total_shift
+message_condition,1,0.019007993707934625,0.8546011870296935,J-S06-D95,mean_total_shift
+inoculation,1,0.0004582579509161941,0.02060332062585305,J-S06-D95,mean_total_shift
+seeding_regime,1,0.002036295219745401,0.09155202483105196,J-S06-D95,mean_total_shift
+topology × message_condition,2,1.951464315082599e-05,0.0008773801936916196,J-S06-D95,mean_total_shift
+topology × inoculation,2,0.0001630834713248336,0.007332248227804659,J-S06-D95,mean_total_shift
+topology × seeding_regime,2,1.3316761199990822e-05,0.0005987228375476829,J-S06-D95,mean_total_shift
+message_condition × inoculation,2,4.53023193877182e-05,0.002036796545643902,J-S06-D95,mean_total_shift
+message_condition × seeding_regime,2,3.551136718044079e-06,0.00015965944124225807,J-S06-D95,mean_total_shift
+inoculation × seeding_regime,2,3.555424275120383e-06,0.000159852210212154,J-S06-D95,mean_total_shift
+topology × message_condition × inoculation,3,3.757781031939536e-05,0.0016895018905402086,J-S06-D95,mean_total_shift
+topology × message_condition × seeding_regime,3,7.667781122606965e-06,0.00034474416132242153,J-S06-D95,mean_total_shift
+topology × inoculation × seeding_regime,3,4.292626245643808e-06,0.00019299688022679937,J-S06-D95,mean_total_shift
+message_condition × inoculation × seeding_regime,3,8.143663456791628e-06,0.0003661398758796558,J-S06-D95,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,2.2343756505862483e-05,0.0010045773965424647,J-S06-D95,mean_total_shift
+topology,1,0.00040071336452119553,0.010936468555221682,J-S06-D95,mean_signed_shift
+message_condition,1,0.03475510883823012,0.9485537259202288,J-S06-D95,mean_signed_shift
+inoculation,1,0.0009368412149920273,0.02556873664854779,J-S06-D95,mean_signed_shift
+seeding_regime,1,0.00013006126065767985,0.0035496966494611855,J-S06-D95,mean_signed_shift
+topology × message_condition,2,2.7114331687512483e-05,0.0007400178335720222,J-S06-D95,mean_signed_shift
+topology × inoculation,2,0.0002106509280575045,0.00574918995672106,J-S06-D95,mean_signed_shift
+topology × seeding_regime,2,5.1935802096903134e-06,0.00014174577561237135,J-S06-D95,mean_signed_shift
+message_condition × inoculation,2,5.651265408691819e-05,0.001542371478256522,J-S06-D95,mean_signed_shift
+message_condition × seeding_regime,2,1.4589045570570502e-05,0.0003981714917941076,J-S06-D95,mean_signed_shift
+inoculation × seeding_regime,2,3.7286300633506027e-06,0.00010176362720173552,J-S06-D95,mean_signed_shift
+topology × message_condition × inoculation,3,3.591818323617213e-05,0.0009802969311803653,J-S06-D95,mean_signed_shift
+topology × message_condition × seeding_regime,3,1.4714288633060901e-05,0.00040158968778146274,J-S06-D95,mean_signed_shift
+topology × inoculation × seeding_regime,3,7.47352146064314e-06,0.0002039710668216928,J-S06-D95,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,1.0538221400492598e-05,0.0002876143826951281,J-S06-D95,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,3.0947698743719054e-05,0.0008446399949040242,J-S06-D95,mean_signed_shift
+topology,1,0.0001987386433020782,0.008384900326741307,J-S06-D95,conversion_rate
+message_condition,1,0.018197733903272312,0.7677731034903557,J-S06-D95,conversion_rate
+inoculation,1,0.00023758818869512395,0.010023985511421614,J-S06-D95,conversion_rate
+seeding_regime,1,0.0008194858326204214,0.0345745895792124,J-S06-D95,conversion_rate
+topology × message_condition,2,0.00027270347462770086,0.011505520091700193,J-S06-D95,conversion_rate
+topology × inoculation,2,0.00037821755378620496,0.015957221190752113,J-S06-D95,conversion_rate
+topology × seeding_regime,2,0.00011598488414495643,0.004893470523927685,J-S06-D95,conversion_rate
+message_condition × inoculation,2,0.00034964325899065896,0.014751654876185898,J-S06-D95,conversion_rate
+message_condition × seeding_regime,2,8.567906203234277e-05,0.003614850052779681,J-S06-D95,conversion_rate
+inoculation × seeding_regime,2,7.554589941570792e-05,0.0031873259582028725,J-S06-D95,conversion_rate
+topology × message_condition × inoculation,3,0.0005498357379860042,0.023197893386467956,J-S06-D95,conversion_rate
+topology × message_condition × seeding_regime,3,0.0007588507843349045,0.03201636120583853,J-S06-D95,conversion_rate
+topology × inoculation × seeding_regime,3,0.00038199576309480934,0.016116626065112966,J-S06-D95,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.0003847776687859357,0.01623399630348696,J-S06-D95,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.0008951878308398331,0.03776850143781407,J-S06-D95,conversion_rate
+topology,1,0.0011424503209983793,0.0334754366604106,J-S14-D50,mean_total_shift
+message_condition,1,0.02872338059913716,0.8416363409824336,J-S14-D50,mean_total_shift
+inoculation,1,0.000711924498488933,0.02086041118648753,J-S14-D50,mean_total_shift
+seeding_regime,1,0.002903217638889877,0.08506845015117533,J-S14-D50,mean_total_shift
+topology × message_condition,2,3.2423384880859996e-05,0.0009500517851374329,J-S14-D50,mean_total_shift
+topology × inoculation,2,0.00027289228863305913,0.007996136335510223,J-S14-D50,mean_total_shift
+topology × seeding_regime,2,1.1595241778618488e-05,0.0003397572520992277,J-S14-D50,mean_total_shift
+message_condition × inoculation,2,6.396544355798811e-05,0.0018742794456123558,J-S14-D50,mean_total_shift
+message_condition × seeding_regime,2,4.3413926317847906e-05,0.001272090447979236,J-S14-D50,mean_total_shift
+inoculation × seeding_regime,2,9.525324405929014e-06,0.000279105697604327,J-S14-D50,mean_total_shift
+topology × message_condition × inoculation,3,5.5829604118640824e-05,0.00163588765489262,J-S14-D50,mean_total_shift
+topology × message_condition × seeding_regime,3,3.1892759340929056e-05,0.0009345036940512214,J-S14-D50,mean_total_shift
+topology × inoculation × seeding_regime,3,1.845752739638648e-05,0.0005408320851322212,J-S14-D50,mean_total_shift
+message_condition × inoculation × seeding_regime,3,3.426224292080171e-05,0.0010039329690385078,J-S14-D50,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,7.278767990581692e-05,0.002132783652435835,J-S14-D50,mean_total_shift
+topology,1,0.00060110287057995,0.00910970047080375,J-S14-D50,mean_signed_shift
+message_condition,1,0.06233301305911612,0.9446554095863717,J-S14-D50,mean_signed_shift
+inoculation,1,0.0017248056017209479,0.02613939006294002,J-S14-D50,mean_signed_shift
+seeding_regime,1,0.00032983904388273513,0.0049987032842631635,J-S14-D50,mean_signed_shift
+topology × message_condition,2,6.509258969912557e-05,0.000986476731438418,J-S14-D50,mean_signed_shift
+topology × inoculation,2,0.0004901337649537508,0.007427966173324292,J-S14-D50,mean_signed_shift
+topology × seeding_regime,2,3.33187041424316e-05,0.0005049442111631203,J-S14-D50,mean_signed_shift
+message_condition × inoculation,2,9.419143971642341e-05,0.0014274691483381616,J-S14-D50,mean_signed_shift
+message_condition × seeding_regime,2,4.0218577160938684e-05,0.0006095116314193839,J-S14-D50,mean_signed_shift
+inoculation × seeding_regime,2,3.3626514738464668e-06,5.096090738161557e-05,J-S14-D50,mean_signed_shift
+topology × message_condition × inoculation,3,5.90853513932621e-05,0.0008954371701560766,J-S14-D50,mean_signed_shift
+topology × message_condition × seeding_regime,3,4.5060249363113036e-05,0.0006828870646411069,J-S14-D50,mean_signed_shift
+topology × inoculation × seeding_regime,3,4.091321782709453e-05,0.0006200388950762919,J-S14-D50,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,4.027637944682694e-05,0.0006103876237606977,J-S14-D50,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,8.450801329462632e-05,0.0012807170389221318,J-S14-D50,mean_signed_shift
+topology,1,0.00016669459144513947,0.004491700040670821,J-S14-D50,conversion_rate
+message_condition,1,0.029174229545032924,0.7861196149071891,J-S14-D50,conversion_rate
+inoculation,1,0.0010197746741013704,0.02747852768002785,J-S14-D50,conversion_rate
+seeding_regime,1,0.0007444795174545381,0.020060510961027025,J-S14-D50,conversion_rate
+topology × message_condition,2,0.00018839519237734761,0.005076437609207108,J-S14-D50,conversion_rate
+topology × inoculation,2,0.0005107045898658513,0.013761285277370087,J-S14-D50,conversion_rate
+topology × seeding_regime,2,0.0003170733607335039,0.00854375906833803,J-S14-D50,conversion_rate
+message_condition × inoculation,2,0.00014659592722842882,0.003950127755109658,J-S14-D50,conversion_rate
+message_condition × seeding_regime,2,0.0002300770030751985,0.006199582572601955,J-S14-D50,conversion_rate
+inoculation × seeding_regime,2,0.0001381590809518586,0.0037227911484743093,J-S14-D50,conversion_rate
+topology × message_condition × inoculation,3,0.0008330713042584564,0.02244767738880655,J-S14-D50,conversion_rate
+topology × message_condition × seeding_regime,3,0.001148962294050128,0.030959576661565878,J-S14-D50,conversion_rate
+topology × inoculation × seeding_regime,3,0.0005076654157945681,0.01367939264857366,J-S14-D50,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.0003113170430723358,0.008388651142828088,J-S14-D50,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.0016744931238654448,0.045120365138209995,J-S14-D50,conversion_rate
+topology,1,0.002667501740833732,0.018701376727976622,J-S14-D95,mean_total_shift
+message_condition,1,0.11606628264371377,0.8137199102473617,J-S14-D95,mean_total_shift
+inoculation,1,0.0027995283748292604,0.019626991801691755,J-S14-D95,mean_total_shift
+seeding_regime,1,0.018848340162440923,0.13214233553402985,J-S14-D95,mean_total_shift
+topology × message_condition,2,9.588179009252518e-05,0.000672210049734643,J-S14-D95,mean_total_shift
+topology × inoculation,2,0.0010796728161009544,0.0075693926522231725,J-S14-D95,mean_total_shift
+topology × seeding_regime,2,6.975913426975414e-05,0.0004890687905562244,J-S14-D95,mean_total_shift
+message_condition × inoculation,2,0.00022519041638517645,0.0015787696584718379,J-S14-D95,mean_total_shift
+message_condition × seeding_regime,2,0.0002592416328063285,0.0018174966353242668,J-S14-D95,mean_total_shift
+inoculation × seeding_regime,2,1.996836590803172e-05,0.0001399946353442559,J-S14-D95,mean_total_shift
+topology × message_condition × inoculation,3,0.0002158829924602812,0.001513516977087628,J-S14-D95,mean_total_shift
+topology × message_condition × seeding_regime,3,9.814278833664147e-05,0.0006880615032865707,J-S14-D95,mean_total_shift
+topology × inoculation × seeding_regime,3,4.791286778328685e-05,0.00033590853074867114,J-S14-D95,mean_total_shift
+message_condition × inoculation × seeding_regime,3,3.2056446966105545e-05,0.0002247420056363931,J-S14-D95,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,0.00011128857392656011,0.0007802242505264041,J-S14-D95,mean_total_shift
+topology,1,0.002280045614713872,0.00989403891993633,J-S14-D95,mean_signed_shift
+message_condition,1,0.21475768966159037,0.9319203642923747,J-S14-D95,mean_signed_shift
+inoculation,1,0.005915774612096765,0.025670935649680766,J-S14-D95,mean_signed_shift
+seeding_regime,1,0.004308985862204517,0.018698430220422165,J-S14-D95,mean_signed_shift
+topology × message_condition,2,0.00013802086941649971,0.0005989283043101171,J-S14-D95,mean_signed_shift
+topology × inoculation,2,0.001677509886723938,0.0072793930089453335,J-S14-D95,mean_signed_shift
+topology × seeding_regime,2,4.6885176512988236e-05,0.00020345371960718605,J-S14-D95,mean_signed_shift
+message_condition × inoculation,2,0.00033547207549314284,0.0014557488455762778,J-S14-D95,mean_signed_shift
+message_condition × seeding_regime,2,0.00035401887943994903,0.0015362309196654653,J-S14-D95,mean_signed_shift
+inoculation × seeding_regime,2,6.683792158353186e-06,2.9003674014570285e-05,J-S14-D95,mean_signed_shift
+topology × message_condition × inoculation,3,0.00021196485997540537,0.0009198011481532117,J-S14-D95,mean_signed_shift
+topology × message_condition × seeding_regime,3,0.00014797060961146968,0.0006421042460969843,J-S14-D95,mean_signed_shift
+topology × inoculation × seeding_regime,3,4.2559590937520445e-05,0.000184683256525655,J-S14-D95,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,5.771542661639484e-05,0.00025045054955841336,J-S14-D95,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,0.00016509945958562144,0.0007164332451329423,J-S14-D95,mean_signed_shift
+topology,1,0.0004822567668249044,0.0029706175397557636,J-S14-D95,conversion_rate
+message_condition,1,0.13542399406756503,0.8341881747549472,J-S14-D95,conversion_rate
+inoculation,1,0.004543793101269002,0.02798897270538804,J-S14-D95,conversion_rate
+seeding_regime,1,0.005175950263798271,0.03188295052814714,J-S14-D95,conversion_rate
+topology × message_condition,2,0.0003054063799844131,0.0018812500135729766,J-S14-D95,conversion_rate
+topology × inoculation,2,0.005089570459150536,0.03135086600301614,J-S14-D95,conversion_rate
+topology × seeding_regime,2,0.0004939443333193076,0.0030426109101213505,J-S14-D95,conversion_rate
+message_condition × inoculation,2,0.0005997772774676557,0.0036945233804034365,J-S14-D95,conversion_rate
+message_condition × seeding_regime,2,0.0011804178653383735,0.007271168091848422,J-S14-D95,conversion_rate
+inoculation × seeding_regime,2,0.00046300525974564237,0.002852031615139486,J-S14-D95,conversion_rate
+topology × message_condition × inoculation,3,0.0020610451440263022,0.012695678477220694,J-S14-D95,conversion_rate
+topology × message_condition × seeding_regime,3,0.0012706685207314883,0.007827096382187126,J-S14-D95,conversion_rate
+topology × inoculation × seeding_regime,3,0.0009615928609946443,0.005923244245553014,J-S14-D95,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.0011782268496493553,0.007257671817491238,J-S14-D95,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.003112611464591103,0.019173143535207958,J-S14-D95,conversion_rate
+topology,1,5.080250759614424e-06,0.010298031551941006,J-S18-D05,mean_total_shift
+message_condition,1,0.00041937301760320417,0.8500990938562026,J-S18-D05,mean_total_shift
+inoculation,1,1.2361679664048945e-05,0.02505800859818685,J-S18-D05,mean_total_shift
+seeding_regime,1,3.0584790950033688e-06,0.006199755821440424,J-S18-D05,mean_total_shift
+topology × message_condition,2,5.722145405059789e-06,0.011599197896792857,J-S18-D05,mean_total_shift
+topology × inoculation,2,2.645326858052942e-06,0.0053622666947829405,J-S18-D05,mean_total_shift
+topology × seeding_regime,2,2.1974731279572033e-06,0.004454435160197347,J-S18-D05,mean_total_shift
+message_condition × inoculation,2,1.1170215588835537e-06,0.0022642825722355123,J-S18-D05,mean_total_shift
+message_condition × seeding_regime,2,1.2207065247444356e-06,0.002474459412005982,J-S18-D05,mean_total_shift
+inoculation × seeding_regime,2,2.9191643002936905e-06,0.005917354770890443,J-S18-D05,mean_total_shift
+topology × message_condition × inoculation,3,7.366878871004046e-06,0.01493319023856316,J-S18-D05,mean_total_shift
+topology × message_condition × seeding_regime,3,6.57256915048796e-06,0.013323067638136853,J-S18-D05,mean_total_shift
+topology × inoculation × seeding_regime,3,2.9418183555983383e-06,0.005963276160866159,J-S18-D05,mean_total_shift
+message_condition × inoculation × seeding_regime,3,2.2496513280995936e-06,0.004560204102876588,J-S18-D05,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,1.849632607261591e-05,0.03749337552488142,J-S18-D05,mean_total_shift
+topology,1,4.3555553851150335e-06,0.0033527833902434637,J-S18-D05,mean_signed_shift
+message_condition,1,0.0011891110697322402,0.9153440815786107,J-S18-D05,mean_signed_shift
+inoculation,1,3.209500497668417e-05,0.024705827404549463,J-S18-D05,mean_signed_shift
+seeding_regime,1,2.7695417823323403e-07,0.0002131914960402669,J-S18-D05,mean_signed_shift
+topology × message_condition,2,5.301845153003878e-06,0.004081210498983184,J-S18-D05,mean_signed_shift
+topology × inoculation,2,9.047081522558523e-06,0.006964187566681958,J-S18-D05,mean_signed_shift
+topology × seeding_regime,2,2.12131025412719e-06,0.0016329246575297407,J-S18-D05,mean_signed_shift
+message_condition × inoculation,2,2.641144692803153e-06,0.0020330785110717208,J-S18-D05,mean_signed_shift
+message_condition × seeding_regime,2,2.9395902543115533e-06,0.0022628134663283672,J-S18-D05,mean_signed_shift
+inoculation × seeding_regime,2,1.59128477196044e-06,0.001224926026841331,J-S18-D05,mean_signed_shift
+topology × message_condition × inoculation,3,6.422182786968355e-06,0.004943614734148605,J-S18-D05,mean_signed_shift
+topology × message_condition × seeding_regime,3,8.892144105106248e-06,0.006844921123294168,J-S18-D05,mean_signed_shift
+topology × inoculation × seeding_regime,3,4.914581208948727e-06,0.0037831056640164266,J-S18-D05,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,5.067301655893933e-06,0.0039006655461885876,J-S18-D05,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,2.430937339274958e-05,0.018712668335472128,J-S18-D05,mean_signed_shift
+topology,1,1.5303955865340783e-05,0.011363194969806038,J-S18-D05,conversion_rate
+message_condition,1,0.00038490923250297446,0.2857952997966456,J-S18-D05,conversion_rate
+inoculation,1,1.3651769802931662e-05,0.010136445982894156,J-S18-D05,conversion_rate
+seeding_regime,1,2.08382045382564e-05,0.015472377408325189,J-S18-D05,conversion_rate
+topology × message_condition,2,0.00010138732570405334,0.07528014061067283,J-S18-D05,conversion_rate
+topology × inoculation,2,6.366868143395617e-05,0.04727402816437772,J-S18-D05,conversion_rate
+topology × seeding_regime,2,6.895260325458848e-05,0.05119734278847674,J-S18-D05,conversion_rate
+message_condition × inoculation,2,1.3144603202812821e-05,0.009759874525812545,J-S18-D05,conversion_rate
+message_condition × seeding_regime,2,1.511335568723615e-05,0.011221674241169615,J-S18-D05,conversion_rate
+inoculation × seeding_regime,2,1.0693619820213974e-05,0.007940018124677711,J-S18-D05,conversion_rate
+topology × message_condition × inoculation,3,7.09315995599144e-05,0.052666748546034675,J-S18-D05,conversion_rate
+topology × message_condition × seeding_regime,3,0.00014836122169101858,0.11015828213747406,J-S18-D05,conversion_rate
+topology × inoculation × seeding_regime,3,5.4166741644228557e-05,0.04021883306501389,J-S18-D05,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.00019105292902271947,0.14185689642207638,J-S18-D05,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.00017462458572696494,0.1296588432165428,J-S18-D05,conversion_rate
+topology,1,0.0020923942775629813,0.03566796343611165,J-S18-D50,mean_total_shift
+message_condition,1,0.047658237339347494,0.8124053315750912,J-S18-D50,mean_total_shift
+inoculation,1,0.0014245575682718318,0.024283696338978544,J-S18-D50,mean_total_shift
+seeding_regime,1,0.006363348114997302,0.10847270532651417,J-S18-D50,mean_total_shift
+topology × message_condition,2,5.0743433310344865e-05,0.0008649970721790372,J-S18-D50,mean_total_shift
+topology × inoculation,2,0.0005139524057381551,0.008761080936008416,J-S18-D50,mean_total_shift
+topology × seeding_regime,2,4.928607562162436e-05,0.0008401542491451483,J-S18-D50,mean_total_shift
+message_condition × inoculation,2,0.0001038000483312776,0.00176942575701304,J-S18-D50,mean_total_shift
+message_condition × seeding_regime,2,9.878300857071864e-05,0.0016839028741338364,J-S18-D50,mean_total_shift
+inoculation × seeding_regime,2,2.1072792792459737e-05,0.0003592170036393091,J-S18-D50,mean_total_shift
+topology × message_condition × inoculation,3,7.399369506547182e-05,0.0012613322634259612,J-S18-D50,mean_total_shift
+topology × message_condition × seeding_regime,3,4.14706319447275e-05,0.0007069284215400273,J-S18-D50,mean_total_shift
+topology × inoculation × seeding_regime,3,2.4892146907377205e-05,0.0004243235585468788,J-S18-D50,mean_total_shift
+message_condition × inoculation × seeding_regime,3,4.8422749721867275e-05,0.00082543757889032,J-S18-D50,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,9.817295514417262e-05,0.0016735036087824411,J-S18-D50,mean_total_shift
+topology,1,0.0010597839583090375,0.009509728016176121,J-S18-D50,mean_signed_shift
+message_condition,1,0.10441886938555799,0.9369787491383356,J-S18-D50,mean_signed_shift
+inoculation,1,0.0032092890085707636,0.028797818043507197,J-S18-D50,mean_signed_shift
+seeding_regime,1,0.0010745569628868839,0.009642290180771632,J-S18-D50,mean_signed_shift
+topology × message_condition,2,9.603914629011112e-05,0.0008617852279835913,J-S18-D50,mean_signed_shift
+topology × inoculation,2,0.0008461446354798129,0.007592684605830846,J-S18-D50,mean_signed_shift
+topology × seeding_regime,2,5.1105158060490985e-05,0.0004585804017588663,J-S18-D50,mean_signed_shift
+message_condition × inoculation,2,0.00010468046226089212,0.000939326092741617,J-S18-D50,mean_signed_shift
+message_condition × seeding_regime,2,0.00013615324620196156,0.0012217398930684281,J-S18-D50,mean_signed_shift
+inoculation × seeding_regime,2,4.4149239457839246e-06,3.9616306330488246e-05,J-S18-D50,mean_signed_shift
+topology × message_condition × inoculation,3,0.000106677998134172,0.0009572505222524732,J-S18-D50,mean_signed_shift
+topology × message_condition × seeding_regime,3,9.177766554525901e-05,0.000823545808985047,J-S18-D50,mean_signed_shift
+topology × inoculation × seeding_regime,3,4.636770536422391e-05,0.0004160699577407443,J-S18-D50,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,5.0030926215346994e-05,0.00044894102894751123,J-S18-D50,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,0.00014619806582209793,0.0013118747755698212,J-S18-D50,mean_signed_shift
+topology,1,0.0005196303420123677,0.0072914856389243695,J-S18-D50,conversion_rate
+message_condition,1,0.05800588153732945,0.8139421777501193,J-S18-D50,conversion_rate
+inoculation,1,0.003196443009927438,0.04485268934116895,J-S18-D50,conversion_rate
+seeding_regime,1,0.0017339110262249006,0.024330348566501854,J-S18-D50,conversion_rate
+topology × message_condition,2,0.00026891693874438877,0.003773459396779309,J-S18-D50,conversion_rate
+topology × inoculation,2,0.001510727702550104,0.02119862613258852,J-S18-D50,conversion_rate
+topology × seeding_regime,2,0.0004206610222804814,0.0059027419202175285,J-S18-D50,conversion_rate
+message_condition × inoculation,2,0.00013441305640935625,0.0018860924608390661,J-S18-D50,conversion_rate
+message_condition × seeding_regime,2,0.0004258606402524623,0.005975703286606886,J-S18-D50,conversion_rate
+inoculation × seeding_regime,2,6.0176717324078935e-05,0.0008444034820347144,J-S18-D50,conversion_rate
+topology × message_condition × inoculation,3,0.0014528180643740146,0.020386034447736116,J-S18-D50,conversion_rate
+topology × message_condition × seeding_regime,3,0.0006839246631709234,0.009596873885971583,J-S18-D50,conversion_rate
+topology × inoculation × seeding_regime,3,0.0005986293307474969,0.008400004417140812,J-S18-D50,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.0004034136751260575,0.005660726060252539,J-S18-D50,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.001849951316189688,0.025958633213118445,J-S18-D50,conversion_rate
+topology,1,0.004640715086929895,0.01895963840260594,J-S18-D95,mean_total_shift
+message_condition,1,0.19011532060283556,0.7767160159383671,J-S18-D95,mean_total_shift
+inoculation,1,0.004666721661038574,0.019065888243838345,J-S18-D95,mean_total_shift
+seeding_regime,1,0.04154008351369789,0.16971198358027145,J-S18-D95,mean_total_shift
+topology × message_condition,2,0.00014225240152837548,0.0005811720918778849,J-S18-D95,mean_total_shift
+topology × inoculation,2,0.0015799779989941632,0.006454999064555749,J-S18-D95,mean_total_shift
+topology × seeding_regime,2,0.00022539577662268606,0.0009208542955537888,J-S18-D95,mean_total_shift
+message_condition × inoculation,2,0.0003243958457876672,0.0013253190123142333,J-S18-D95,mean_total_shift
+message_condition × seeding_regime,2,0.0006568970358510617,0.0026837524032786945,J-S18-D95,mean_total_shift
+inoculation × seeding_regime,2,4.130552270379534e-05,0.00016875368554734548,J-S18-D95,mean_total_shift
+topology × message_condition × inoculation,3,0.0002711822832386357,0.0011079150378953803,J-S18-D95,mean_total_shift
+topology × message_condition × seeding_regime,3,0.00016266816748272683,0.0006645806901124315,J-S18-D95,mean_total_shift
+topology × inoculation × seeding_regime,3,0.00012868679151669532,0.0005257498011932872,J-S18-D95,mean_total_shift
+message_condition × inoculation × seeding_regime,3,6.133497778865182e-05,0.00025058401098138186,J-S18-D95,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,0.0002111844038667765,0.000862793741606931,J-S18-D95,mean_total_shift
+topology,1,0.0037706594825855765,0.009700228770727895,J-S18-D95,mean_signed_shift
+message_condition,1,0.3578363998760239,0.9205538069194561,J-S18-D95,mean_signed_shift
+inoculation,1,0.010132976685026131,0.026067639474515895,J-S18-D95,mean_signed_shift
+seeding_regime,1,0.012032651957963532,0.030954658528528158,J-S18-D95,mean_signed_shift
+topology × message_condition,2,0.00034894591954443,0.0008976825576071256,J-S18-D95,mean_signed_shift
+topology × inoculation,2,0.0023575704496801592,0.006064979564085144,J-S18-D95,mean_signed_shift
+topology × seeding_regime,2,9.147785576439291e-05,0.00023533181197305897,J-S18-D95,mean_signed_shift
+message_condition × inoculation,2,0.0003945715582291953,0.0010150570209063986,J-S18-D95,mean_signed_shift
+message_condition × seeding_regime,2,0.0008620818985717316,0.0022177530678307413,J-S18-D95,mean_signed_shift
+inoculation × seeding_regime,2,2.4969237149355394e-05,6.423473498413629e-05,J-S18-D95,mean_signed_shift
+topology × message_condition × inoculation,3,0.0002975349556570417,0.0007654250272375747,J-S18-D95,mean_signed_shift
+topology × message_condition × seeding_regime,3,0.0001386513682713475,0.00035668826575776315,J-S18-D95,mean_signed_shift
+topology × inoculation × seeding_regime,3,6.636037821625487e-05,0.00017071572041511997,J-S18-D95,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,6.991632283503968e-05,0.0001798635833970615,J-S18-D95,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,0.00029384598698922737,0.0007559349525779269,J-S18-D95,mean_signed_shift
+topology,1,0.001833474900668802,0.005266551224107831,J-S18-D95,conversion_rate
+message_condition,1,0.30224298079946066,0.8681755828382278,J-S18-D95,conversion_rate
+inoculation,1,0.011322926465372446,0.03252445518339945,J-S18-D95,conversion_rate
+seeding_regime,1,0.01131904785489616,0.032513314097833305,J-S18-D95,conversion_rate
+topology × message_condition,2,0.000744954405730025,0.0021398386942580215,J-S18-D95,conversion_rate
+topology × inoculation,2,0.008849233232307952,0.025418913613176226,J-S18-D95,conversion_rate
+topology × seeding_regime,2,0.0010184596961011032,0.0029254669138089624,J-S18-D95,conversion_rate
+message_condition × inoculation,2,0.0011547810615323284,0.003317042197289518,J-S18-D95,conversion_rate
+message_condition × seeding_regime,2,0.0005344364412230296,0.0015351379463685462,J-S18-D95,conversion_rate
+inoculation × seeding_regime,2,0.00018915460089585778,0.0005433357143478342,J-S18-D95,conversion_rate
+topology × message_condition × inoculation,3,0.0016225492528619823,0.004660679429382124,J-S18-D95,conversion_rate
+topology × message_condition × seeding_regime,3,0.0015334082513613345,0.0044046270283374265,J-S18-D95,conversion_rate
+topology × inoculation × seeding_regime,3,0.00178402467351578,0.005124508290086666,J-S18-D95,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.0008957513576447473,0.0025729942675404892,J-S18-D95,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.0030905936558608404,0.008877552561835714,J-S18-D95,conversion_rate
+topology,1,0.0027206022283503633,0.00018737682723017602,NC-NoOp,mean_total_shift
+message_condition,1,1.1833100968991999,0.08149845989093638,NC-NoOp,mean_total_shift
+inoculation,1,0.0019813064459289725,0.0001364590941447457,NC-NoOp,mean_total_shift
+seeding_regime,1,11.98439273769764,0.8254045608246687,NC-NoOp,mean_total_shift
+topology × message_condition,2,0.00047171560781311683,3.248860602476616e-05,NC-NoOp,mean_total_shift
+topology × inoculation,2,0.0003191293126485724,2.1979485812777028e-05,NC-NoOp,mean_total_shift
+topology × seeding_regime,2,0.0035969074397126377,0.00024773085049725757,NC-NoOp,mean_total_shift
+message_condition × inoculation,2,0.00024749043373950563,1.7045480504530618e-05,NC-NoOp,mean_total_shift
+message_condition × seeding_regime,2,1.3382095404252148,0.09216689424167333,NC-NoOp,mean_total_shift
+inoculation × seeding_regime,2,0.0025382136397116284,0.00017481512500631285,NC-NoOp,mean_total_shift
+topology × message_condition × inoculation,3,0.00010910257793872447,7.514253529516138e-06,NC-NoOp,mean_total_shift
+topology × message_condition × seeding_regime,3,0.0006767790928421391,4.661200297162501e-05,NC-NoOp,mean_total_shift
+topology × inoculation × seeding_regime,3,0.00043258323951356203,2.97934310603542e-05,NC-NoOp,mean_total_shift
+message_condition × inoculation × seeding_regime,3,0.0002563926678433859,1.765860665882947e-05,NC-NoOp,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,0.00015406958524799563,1.0611279280596381e-05,NC-NoOp,mean_total_shift
+topology,1,0.0024636250164505233,0.00025271579996594183,NC-NoOp,mean_signed_shift
+message_condition,1,0.7356306808074182,0.07546014297564697,NC-NoOp,mean_signed_shift
+inoculation,1,0.003866413420940547,0.0003966122093044054,NC-NoOp,mean_signed_shift
+seeding_regime,1,8.032180323064592,0.8239317518940006,NC-NoOp,mean_signed_shift
+topology × message_condition,2,0.00043511745667668134,4.463384460254441e-05,NC-NoOp,mean_signed_shift
+topology × inoculation,2,0.0005059337988472714,5.1898102938452545e-05,NC-NoOp,mean_signed_shift
+topology × seeding_regime,2,0.003711683643423669,0.00038074020798820377,NC-NoOp,mean_signed_shift
+message_condition × inoculation,2,0.00044630173541138074,4.5781114957654636e-05,NC-NoOp,mean_signed_shift
+message_condition × seeding_regime,2,0.9623555874290712,0.09871732122578722,NC-NoOp,mean_signed_shift
+inoculation × seeding_regime,2,0.004830594387360776,0.0004955167757923211,NC-NoOp,mean_signed_shift
+topology × message_condition × inoculation,3,0.00014483837282464052,1.4857352482513831e-05,NC-NoOp,mean_signed_shift
+topology × message_condition × seeding_regime,3,0.0006752817061261851,6.92696150698761e-05,NC-NoOp,mean_signed_shift
+topology × inoculation × seeding_regime,3,0.0006044803471265681,6.20068936902877e-05,NC-NoOp,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,0.0005374227551726563,5.512820359692345e-05,NC-NoOp,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,0.00021080160264652648,2.162378417624313e-05,NC-NoOp,mean_signed_shift
+topology,1,0.004339740044667805,0.0002448776239690324,NC-NoOp,conversion_rate
+message_condition,1,1.7293033486192988,0.09757904638824984,NC-NoOp,conversion_rate
+inoculation,1,0.006456647348570026,0.0003643279194721463,NC-NoOp,conversion_rate
+seeding_regime,1,13.337536803744928,0.7525944615308378,NC-NoOp,conversion_rate
+topology × message_condition,2,0.0030518485914443616,0.00017220603632799841,NC-NoOp,conversion_rate
+topology × inoculation,2,0.0013584144320550016,7.665097334472587e-05,NC-NoOp,conversion_rate
+topology × seeding_regime,2,0.0075389562905421315,0.0004253991447950111,NC-NoOp,conversion_rate
+message_condition × inoculation,2,0.0017853093100335116,0.00010073928331904589,NC-NoOp,conversion_rate
+message_condition × seeding_regime,2,2.6039620666582213,0.1469332349923201,NC-NoOp,conversion_rate
+inoculation × seeding_regime,2,0.008699412271205631,0.0004908799570880625,NC-NoOp,conversion_rate
+topology × message_condition × inoculation,3,0.0018125812851512713,0.0001022781534815537,NC-NoOp,conversion_rate
+topology × message_condition × seeding_regime,3,0.005661032343756034,0.0003194339143087854,NC-NoOp,conversion_rate
+topology × inoculation × seeding_regime,3,0.0029768825770268847,0.00016797594436395656,NC-NoOp,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.002544832444762335,0.0001435967399103525,NC-NoOp,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.005048867222583908,0.00028489139821187483,NC-NoOp,conversion_rate
+topology,1,0.0005190827157779341,0.0014938818291411022,PC-M01,mean_total_shift
+message_condition,1,0.3144039507795358,0.9048314166574065,PC-M01,mean_total_shift
+inoculation,1,0.00035716124379409173,0.00102788375717308,PC-M01,mean_total_shift
+seeding_regime,1,0.028294973955431665,0.08143085131372996,PC-M01,mean_total_shift
+topology × message_condition,2,8.643726867302304e-05,0.0002487600937312998,PC-M01,mean_total_shift
+topology × inoculation,2,0.00013480704460329287,0.0003879647467576767,PC-M01,mean_total_shift
+topology × seeding_regime,2,3.339807009833731e-05,9.611718620511964e-05,PC-M01,mean_total_shift
+message_condition × inoculation,2,6.227264376834629e-05,0.00017921608281387506,PC-M01,mean_total_shift
+message_condition × seeding_regime,2,0.003474058726261109,0.009998085173675455,PC-M01,mean_total_shift
+inoculation × seeding_regime,2,5.563232888385755e-06,1.601057455897848e-05,PC-M01,mean_total_shift
+topology × message_condition × inoculation,3,4.136816773919749e-05,0.00011905454027270334,PC-M01,mean_total_shift
+topology × message_condition × seeding_regime,3,1.4383997480105215e-05,4.139608546537165e-05,PC-M01,mean_total_shift
+topology × inoculation × seeding_regime,3,5.897167780835599e-06,1.697161458744366e-05,PC-M01,mean_total_shift
+message_condition × inoculation × seeding_regime,3,8.454487424314205e-06,2.433139219239217e-05,PC-M01,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,3.059805615884814e-05,8.805895228901653e-05,PC-M01,mean_total_shift
+topology,1,0.0002847903104409925,0.001912806290528253,PC-M01,mean_signed_shift
+message_condition,1,0.13342519032231295,0.8961559926959998,PC-M01,mean_signed_shift
+inoculation,1,0.00087139508080423,0.005852762299098878,PC-M01,mean_signed_shift
+seeding_regime,1,0.012162765539796656,0.08169173452115651,PC-M01,mean_signed_shift
+topology × message_condition,2,7.46368223241145e-05,0.0005013014067281138,PC-M01,mean_signed_shift
+topology × inoculation,2,0.0002213923591290552,0.0014869912412441102,PC-M01,mean_signed_shift
+topology × seeding_regime,2,3.4367370189754276e-05,0.00023082991056149656,PC-M01,mean_signed_shift
+message_condition × inoculation,2,0.000142769110110047,0.0009589148292606741,PC-M01,mean_signed_shift
+message_condition × seeding_regime,2,0.0014989839764337487,0.010067989936468066,PC-M01,mean_signed_shift
+inoculation × seeding_regime,2,1.6650508888957014e-05,0.00011183385450851778,PC-M01,mean_signed_shift
+topology × message_condition × inoculation,3,6.049654793610637e-05,0.00040632764951953885,PC-M01,mean_signed_shift
+topology × message_condition × seeding_regime,3,2.5310853201565564e-05,0.00017000142718206397,PC-M01,mean_signed_shift
+topology × inoculation × seeding_regime,3,1.2248802938904027e-05,8.22696083890505e-05,PC-M01,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,9.836075043401227e-06,6.606441837150959e-05,PC-M01,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,4.5288167289991854e-05,0.0003041799109831062,PC-M01,mean_signed_shift
+topology,1,0.00037136980148336235,0.002156670280392894,PC-M01,conversion_rate
+message_condition,1,0.15258067862566616,0.8860877046000089,PC-M01,conversion_rate
+inoculation,1,0.0005672979535896919,0.0032944914523143007,PC-M01,conversion_rate
+seeding_regime,1,0.013461996208312926,0.07817837374300081,PC-M01,conversion_rate
+topology × message_condition,2,0.00032452182055436873,0.0018846081801294722,PC-M01,conversion_rate
+topology × inoculation,2,0.0002561880301355571,0.0014877707034305215,PC-M01,conversion_rate
+topology × seeding_regime,2,0.00021834578212377373,0.0012680079459195918,PC-M01,conversion_rate
+message_condition × inoculation,2,0.00037380419508670215,0.0021708076289714017,PC-M01,conversion_rate
+message_condition × seeding_regime,2,0.0014667388289818228,0.00851784940220857,PC-M01,conversion_rate
+inoculation × seeding_regime,2,0.00016573753586156433,0.000962494032930141,PC-M01,conversion_rate
+topology × message_condition × inoculation,3,0.0005323157961952263,0.003091338210194665,PC-M01,conversion_rate
+topology × message_condition × seeding_regime,3,0.0006335638346845474,0.0036793198788327842,PC-M01,conversion_rate
+topology × inoculation × seeding_regime,3,0.00016017923852912168,0.0009302151168239179,PC-M01,conversion_rate
+message_condition × inoculation × seeding_regime,3,0.00017336114558519355,0.0010067669179482353,PC-M01,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.0009098111944709497,0.005283581906893858,PC-M01,conversion_rate
+topology,1,4.049920087830821e-05,0.00031640516007987515,PC-M05,mean_total_shift
+message_condition,1,0.021592652764572916,0.16869534722555862,PC-M05,mean_total_shift
+inoculation,1,2.1544386216507457e-05,0.00016831825867724275,PC-M05,mean_total_shift
+seeding_regime,1,0.09409695548433072,0.7351444378497638,PC-M05,mean_total_shift
+topology × message_condition,2,8.188952708508557e-06,6.397723501773977e-05,PC-M05,mean_total_shift
+topology × inoculation,2,1.1684954079033854e-05,9.129019056479568e-05,PC-M05,mean_total_shift
+topology × seeding_regime,2,2.8856676847682783e-05,0.0002254464596671742,PC-M05,mean_total_shift
+message_condition × inoculation,2,3.7742339153191973e-06,2.9486682706252694e-05,PC-M05,mean_total_shift
+message_condition × seeding_regime,2,0.012154556974671077,0.09495902294039081,PC-M05,mean_total_shift
+inoculation × seeding_regime,2,1.1533499487903498e-05,9.010693230013447e-05,PC-M05,mean_total_shift
+topology × message_condition × inoculation,3,4.4673581017333486e-06,3.4901803607442285e-05,PC-M05,mean_total_shift
+topology × message_condition × seeding_regime,3,6.748500678888103e-06,5.2723520249665074e-05,PC-M05,mean_total_shift
+topology × inoculation × seeding_regime,3,8.259680852870654e-06,6.452980764519198e-05,PC-M05,mean_total_shift
+message_condition × inoculation × seeding_regime,3,2.5417470936872633e-06,1.985772258759371e-05,PC-M05,mean_total_shift
+topology × message_condition × inoculation × seeding_regime,4,5.650878995455688e-06,4.414821118376227e-05,PC-M05,mean_total_shift
+topology,1,2.173099108968927e-05,0.000453996818397688,PC-M05,mean_signed_shift
+message_condition,1,0.008790395620357067,0.1836460945397288,PC-M05,mean_signed_shift
+inoculation,1,6.263681635850261e-05,0.0013085880539895367,PC-M05,mean_signed_shift
+seeding_regime,1,0.03410188013225101,0.7124454203456518,PC-M05,mean_signed_shift
+topology × message_condition,2,7.984270669498042e-06,0.0001668047934959565,PC-M05,mean_signed_shift
+topology × inoculation,2,1.684850898412019e-05,0.00035199358565678765,PC-M05,mean_signed_shift
+topology × seeding_regime,2,1.6043126732367963e-05,0.00033516780084189425,PC-M05,mean_signed_shift
+message_condition × inoculation,2,1.0249678821955613e-05,0.00021413296593609477,PC-M05,mean_signed_shift
+message_condition × seeding_regime,2,0.004763476706867831,0.0995170105451649,PC-M05,mean_signed_shift
+inoculation × seeding_regime,2,3.764439336165215e-05,0.0007864544578829653,PC-M05,mean_signed_shift
+topology × message_condition × inoculation,3,5.2827642863170765e-06,0.00011036579824796108,PC-M05,mean_signed_shift
+topology × message_condition × seeding_regime,3,8.619543620483339e-06,0.00018007670996635983,PC-M05,mean_signed_shift
+topology × inoculation × seeding_regime,3,1.081015133175961e-05,0.0002258421758474233,PC-M05,mean_signed_shift
+message_condition × inoculation × seeding_regime,3,6.2236676778293365e-06,0.00013002284676466857,PC-M05,mean_signed_shift
+topology × message_condition × inoculation × seeding_regime,4,6.128209354298864e-06,0.00012802856242698945,PC-M05,mean_signed_shift
+topology,1,8.85343472193922e-05,0.0014716797582039068,PC-M05,conversion_rate
+message_condition,1,0.010186973666671168,0.16933499159874546,PC-M05,conversion_rate
+inoculation,1,2.7422550231874657e-05,0.000455836783825522,PC-M05,conversion_rate
+seeding_regime,1,0.04314515006536593,0.7171888200465676,PC-M05,conversion_rate
+topology × message_condition,2,6.832114241491286e-05,0.0011356817495952608,PC-M05,conversion_rate
+topology × inoculation,2,2.301095698861727e-05,0.0003825041995637052,PC-M05,conversion_rate
+topology × seeding_regime,2,0.00014258567730608684,0.0023701587202215185,PC-M05,conversion_rate
+message_condition × inoculation,2,5.942354706143724e-05,0.000987779704912527,PC-M05,conversion_rate
+message_condition × seeding_regime,2,0.005756517231057051,0.09568885017817184,PC-M05,conversion_rate
+inoculation × seeding_regime,2,7.708040367027102e-05,0.0012812843082766535,PC-M05,conversion_rate
+topology × message_condition × inoculation,3,0.00010547242569092403,0.0017532363293237172,PC-M05,conversion_rate
+topology × message_condition × seeding_regime,3,9.281797755126414e-05,0.001542885253574221,PC-M05,conversion_rate
+topology × inoculation × seeding_regime,3,5.904466806584685e-05,0.0009814817136116225,PC-M05,conversion_rate
+message_condition × inoculation × seeding_regime,3,8.973494409689198e-05,0.001491636918084476,PC-M05,conversion_rate
+topology × message_condition × inoculation × seeding_regime,4,0.0002366145751878032,0.003933172737321923,PC-M05,conversion_rate

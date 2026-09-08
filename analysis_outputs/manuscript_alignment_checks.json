@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "checks": {
+    "table_4a_main_percent": true,
+    "table_4a_shapley_percent": true,
+    "table_4a_complete_u": true,
+    "table_4b_complete_u": true,
+    "table_4b_positive_splits": true,
+    "table_5_control_points": true
+  },
+  "scope": "Selected numerical columns in submitted Tables 4A, 4B and 5; tolerance follows displayed rounding."
+}

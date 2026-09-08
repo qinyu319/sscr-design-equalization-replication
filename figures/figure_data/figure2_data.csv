@@ -1,0 +1,9 @@
+design,outcome,metric,lo95,median,hi95,series
+C-D1,mean_total_shift,shapley_share__seeding_regime,0.0011503492141508,0.0015816159820312,0.002084982947167,original
+C-D10,mean_total_shift,shapley_share__seeding_regime,0.7870138125785474,0.7881606001779308,0.7892222730823848,original
+C-D5,mean_total_shift,shapley_share__seeding_regime,0.7073829898287496,0.7092892217775866,0.7109784870436917,original
+C-D50,mean_total_shift,shapley_share__seeding_regime,0.8711647018619181,0.8717194783420064,0.8723002759165993,original
+CS-0,mean_total_shift,shapley_share__seeding_regime,0.0046178493893427,0.005115917420435,0.0055981001102417,centered
+CS-15,mean_total_shift,shapley_share__seeding_regime,0.2303706707249188,0.2326746136861667,0.2349045965971854,centered
+CS-30,mean_total_shift,shapley_share__seeding_regime,0.5761517762579877,0.5776460710198625,0.5792257609727337,centered
+CS-45,mean_total_shift,shapley_share__seeding_regime,0.7612757594609029,0.7621499647413261,0.7629852062828348,centered

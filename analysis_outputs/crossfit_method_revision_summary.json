@@ -1,0 +1,18 @@
+{
+  "archive_rows": 120960,
+  "abm_runs_added": 0,
+  "repeated_splits": 100,
+  "bootstrap_draws": 1000,
+  "splits_per_bootstrap": 20,
+  "toy_outer_datasets_per_setting": 500,
+  "toy_bootstrap_draws": 199,
+  "all_primary_points_inside_own_intervals": true,
+  "outputs": [
+    "repeated_split_summary.csv",
+    "repeated_crossfit_intervals.csv",
+    "repeated_split_replication_convergence.csv",
+    "extension_interval_widths.csv",
+    "toy_crossfit_validation.csv",
+    "interval_source_audit.csv"
+  ]
+}

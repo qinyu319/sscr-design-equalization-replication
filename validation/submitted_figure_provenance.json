@@ -1,0 +1,50 @@
+[
+  {
+    "source_document": "main01.docx",
+    "figure": "figure1",
+    "file": "figures/submitted/figure1.png",
+    "sha256": "262a9bc96520b5967a4c47f2781e55dea7e0ac9faa9725f350a9f8c3aa661d3e"
+  },
+  {
+    "source_document": "main01.docx",
+    "figure": "figure2",
+    "file": "figures/submitted/figure2.png",
+    "sha256": "3c75321a34be6e2073c19249111dfdf0375e0d28b26c5e867137dd77b5900c8f"
+  },
+  {
+    "source_document": "main01.docx",
+    "figure": "figure3",
+    "file": "figures/submitted/figure3.png",
+    "sha256": "0e1bb6ff1628d0c84d9f638d80f31f0132d673392818f9d6f3b5807b6cb99ab6"
+  },
+  {
+    "source_document": "main01.docx",
+    "figure": "figure4",
+    "file": "figures/submitted/figure4.png",
+    "sha256": "d15d564f7905473bc056f42245e378761d7ed5bf63a7acc5f138347cdd01ce9c"
+  },
+  {
+    "source_document": "main01.docx",
+    "figure": "figure5",
+    "file": "figures/submitted/figure5.png",
+    "sha256": "678ff1015599b0fbdb10fed98a92aed1fa75d71a5af44d6f46666180422d18ee"
+  },
+  {
+    "source_document": "sup01.docx",
+    "figure": "figure_F1",
+    "file": "figures/submitted/figure_F1.png",
+    "sha256": "43200ba82f8f95f4a174c1c06d9a7dea0bc3be16d95305b9b25ccb69d3d8ef1e"
+  },
+  {
+    "source_document": "sup01.docx",
+    "figure": "figure_I1",
+    "file": "figures/submitted/figure_I1.png",
+    "sha256": "5d912ce44dd798712b1e94d2f61cc2a243c8569e6ca48dcf1e0b02c549b8550a"
+  },
+  {
+    "source_document": "sup01.docx",
+    "figure": "figure_J1",
+    "file": "figures/submitted/figure_J1.png",
+    "sha256": "4bdd1088fc677eb1d077a207abf4960631e41ecd117a93ada8387e66824e48b4"
+  }
+]

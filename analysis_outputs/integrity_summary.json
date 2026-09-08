@@ -1,0 +1,7 @@
+{
+  "designs": 25,
+  "runs": 108000,
+  "all_design_checks_pass": true,
+  "no_op_numeric_max_abs_difference": 0.0,
+  "no_op_array_mismatches": 0
+}

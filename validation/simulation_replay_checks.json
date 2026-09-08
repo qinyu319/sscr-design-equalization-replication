@@ -1,0 +1,736 @@
+{
+  "status": "PASS",
+  "scope": "One archived run per configuration (28 runs); not a rerun of the complete ABM matrix.",
+  "rtol": 1e-10,
+  "atol": 1e-12,
+  "results": [
+    {
+      "config": "configs/cs_0.yaml",
+      "design": "CS-0",
+      "key": [
+        "BA",
+        "high_quality_ai",
+        "none",
+        "single_shot",
+        "0"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/cs_15.yaml",
+      "design": "CS-15",
+      "key": [
+        "BA",
+        "high_quality_ai",
+        "random",
+        "burst",
+        "17"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/cs_30.yaml",
+      "design": "CS-30",
+      "key": [
+        "BA",
+        "low_quality_ai",
+        "none",
+        "single_shot",
+        "4"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/cs_45.yaml",
+      "design": "CS-45",
+      "key": [
+        "BA",
+        "low_quality_ai",
+        "random",
+        "burst",
+        "21"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/cs_45_r.yaml",
+      "design": "CS-45-R",
+      "key": [
+        "BA",
+        "labeled_ai",
+        "none",
+        "single_shot",
+        "8"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/dose_anchor_095_calibrated.yaml",
+      "design": "D-A95",
+      "key": [
+        "BA",
+        "labeled_ai",
+        "random",
+        "burst",
+        "25"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/esd_reps30_59.yaml",
+      "design": "E-SD",
+      "key": [
+        "BA",
+        "human_equivalent",
+        "none",
+        "single_shot",
+        "42"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/joint_s060_d005.yaml",
+      "design": "J-S06-D05",
+      "key": [
+        "BA",
+        "human_equivalent",
+        "random",
+        "burst",
+        "29"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/joint_s060_d005_reps30_59.yaml",
+      "design": "J-S06-D05",
+      "key": [
+        "ER",
+        "high_quality_ai",
+        "none",
+        "single_shot",
+        "46"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/joint_s060_d050.yaml",
+      "design": "J-S06-D50",
+      "key": [
+        "ER",
+        "high_quality_ai",
+        "random",
+        "continuous",
+        "3"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/joint_s060_d095.yaml",
+      "design": "J-S06-D95",
+      "key": [
+        "ER",
+        "low_quality_ai",
+        "none",
+        "single_shot",
+        "20"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/joint_s140_d050.yaml",
+      "design": "J-S14-D50",
+      "key": [
+        "ER",
+        "low_quality_ai",
+        "random",
+        "continuous",
+        "7"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/joint_s140_d095.yaml",
+      "design": "J-S14-D95",
+      "key": [
+        "ER",
+        "labeled_ai",
+        "none",
+        "single_shot",
+        "24"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/joint_s180_d005.yaml",
+      "design": "J-S18-D05",
+      "key": [
+        "ER",
+        "labeled_ai",
+        "random",
+        "continuous",
+        "11"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/joint_s180_d005_reps30_59.yaml",
+      "design": "J-S18-D05",
+      "key": [
+        "ER",
+        "human_equivalent",
+        "none",
+        "single_shot",
+        "58"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/joint_s180_d050.yaml",
+      "design": "J-S18-D50",
+      "key": [
+        "ER",
+        "human_equivalent",
+        "random",
+        "continuous",
+        "15"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/joint_s180_d095.yaml",
+      "design": "J-S18-D95",
+      "key": [
+        "WS",
+        "high_quality_ai",
+        "none",
+        "burst",
+        "2"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/mechanism_dose_1_1_1.yaml",
+      "design": "C-D1",
+      "key": [
+        "WS",
+        "high_quality_ai",
+        "random",
+        "continuous",
+        "19"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/mechanism_dose_1_2_5.yaml",
+      "design": "C-D5",
+      "key": [
+        "WS",
+        "low_quality_ai",
+        "none",
+        "burst",
+        "6"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/mechanism_dose_1_3_10.yaml",
+      "design": "C-D10",
+      "key": [
+        "WS",
+        "low_quality_ai",
+        "random",
+        "continuous",
+        "23"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/mechanism_dose_1_5_50.yaml",
+      "design": "C-D50",
+      "key": [
+        "WS",
+        "labeled_ai",
+        "none",
+        "burst",
+        "10"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/mechanism_strength_and_dose_equalized.yaml",
+      "design": "E-SD",
+      "key": [
+        "WS",
+        "labeled_ai",
+        "random",
+        "continuous",
+        "27"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/mechanism_strength_equalized.yaml",
+      "design": "E-S",
+      "key": [
+        "WS",
+        "human_equivalent",
+        "none",
+        "burst",
+        "14"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/nc_inoculation_noop.yaml",
+      "design": "NC-NoOp",
+      "key": [
+        "WS",
+        "human_equivalent",
+        "hub",
+        "single_shot",
+        "1"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/pc_memory_010.yaml",
+      "design": "PC-M01",
+      "key": [
+        "SBM",
+        "high_quality_ai",
+        "none",
+        "burst",
+        "18"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/pc_memory_050.yaml",
+      "design": "PC-M05",
+      "key": [
+        "SBM",
+        "high_quality_ai",
+        "hub",
+        "single_shot",
+        "5"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/strength_anchor_060.yaml",
+      "design": "S-A06",
+      "key": [
+        "SBM",
+        "low_quality_ai",
+        "none",
+        "burst",
+        "22"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    },
+    {
+      "config": "configs/strength_anchor_180.yaml",
+      "design": "S-A18",
+      "key": [
+        "SBM",
+        "low_quality_ai",
+        "hub",
+        "single_shot",
+        "9"
+      ],
+      "status": "PASS",
+      "checks": {
+        "mean_total_shift": true,
+        "mean_signed_shift": true,
+        "conversion_rate": true,
+        "mean_cumulative_exposure": true,
+        "total_direct_exposures": true,
+        "total_secondhand_exposures": true,
+        "total_exposures": true,
+        "direct_exposures_by_step": true,
+        "secondhand_exposures_by_step": true,
+        "total_exposures_by_step": true,
+        "opinion_shift_by_step": true,
+        "cumulative_total_shift_by_step": true
+      }
+    }
+  ]
+}

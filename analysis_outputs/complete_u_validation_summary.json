@@ -1,0 +1,25 @@
+{
+  "archive_rows": 120960,
+  "abm_runs_added": 0,
+  "primary_estimator": "complete cross-replication order-2 U-statistic",
+  "abm_bootstrap_draws": 1000,
+  "split_diagnostic_grid": [
+    20,
+    50,
+    100
+  ],
+  "toy_outer_datasets": 500,
+  "toy_coverage_outer_datasets": 200,
+  "toy_bootstrap_draws": 199,
+  "elapsed_seconds": 14.71473160000096,
+  "all_complete_u_points_finite": true,
+  "all_displayed_points_inside_percentile_ranges": true,
+  "outputs": [
+    "complete_u_point_estimates.csv",
+    "complete_u_bootstrap_ranges.csv",
+    "bootstrap_split_count_sensitivity.csv",
+    "extension_ratio_pairing_sensitivity.csv",
+    "toy_complete_u_validation.csv",
+    "toy_complete_u_truth.csv"
+  ]
+}

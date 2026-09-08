@@ -1,0 +1,26 @@
+source_id,design,family,dose_center,dose_spread,dose_anchor,strength_anchor,structural_variant,source
+mechanism_dose_1_1_1,C-D1,original contrast-set,0.05,0.0,,,baseline,archive
+mechanism_dose_1_2_5,C-D5,original contrast-set,0.13333333333333333,0.2,,,baseline,archive
+mechanism_dose_1_3_10,C-D10,original contrast-set,0.2333333333333333,0.45,,,baseline,archive
+mechanism_dose_1_5_50,C-D50,original contrast-set,0.9333333333333332,2.45,,,baseline,archive
+mechanism_strength_equalized,E-S,strength equalization,0.9333333333333332,2.45,,0.14,baseline,archive
+mechanism_strength_and_dose_equalized,E-SD,joint equalization,0.05,0.0,0.05,0.14,baseline,archive
+cs_0,CS-0,centered span,0.5,0.0,,,baseline,new
+cs_15,CS-15,centered span,0.5,0.3,,,baseline,new
+cs_30,CS-30,centered span,0.5,0.6,,,baseline,new
+cs_45,CS-45,centered span,0.5,0.9,,,baseline,new
+cs_45_r,CS-45-R,centered reversal,0.5,0.9,,,reversed dose mapping,new
+dose_anchor_095_calibrated,D-A95,dose equalization,0.95,0.0,0.95,,baseline,new
+strength_anchor_060,S-A06,strength equalization,0.9333333333333332,2.45,,0.06,baseline,new
+strength_anchor_180,S-A18,strength equalization,0.9333333333333332,2.45,,0.18,baseline,new
+joint_s060_d005,J-S06-D05,joint equalization,0.05,0.0,0.05,0.06,baseline,new
+joint_s060_d050,J-S06-D50,joint equalization,0.5,0.0,0.5,0.06,baseline,new
+joint_s060_d095,J-S06-D95,joint equalization,0.95,0.0,0.95,0.06,baseline,new
+joint_s140_d050,J-S14-D50,joint equalization,0.5,0.0,0.5,0.14,baseline,new
+joint_s140_d095,J-S14-D95,joint equalization,0.95,0.0,0.95,0.14,baseline,new
+joint_s180_d005,J-S18-D05,joint equalization,0.05,0.0,0.05,0.18,baseline,new
+joint_s180_d050,J-S18-D50,joint equalization,0.5,0.0,0.5,0.18,baseline,new
+joint_s180_d095,J-S18-D95,joint equalization,0.95,0.0,0.95,0.18,baseline,new
+nc_inoculation_noop,NC-NoOp,negative control,0.9333333333333332,2.45,,,inoculation budget no-op,new
+pc_memory_010,PC-M01,positive control,0.5,0.0,0.5,,opinion reversion mu=.01,new
+pc_memory_050,PC-M05,positive control,0.5,0.0,0.5,,opinion reversion mu=.05,new

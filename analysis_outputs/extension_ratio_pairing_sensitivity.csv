@@ -1,0 +1,10 @@
+design,sample,q_seed_proportion,p02_5,median,p97_5,range_width,bootstrap_draws,pairing_rule
+E-SD,first_30_paired,2.8879966025655295e-08,-2.713301851530851e-07,1.801982823777227e-08,3.365885832424174e-07,6.079187683955025e-07,1000,0-29 numerator and benchmark use identical resampled block counts.
+E-SD,all_60_stratified,2.8303102902458603e-08,-1.0557071747636494e-07,2.2532200574311457e-08,1.7488149635914847e-07,2.804522138355134e-07,1000,0-29 numerator shares benchmark counts; 30-59 is resampled independently; q is recomputed per draw.
+E-SD,last_30_independent,6.559970118088703e-08,-1.6567933410060264e-07,5.74259301347326e-08,3.3110691590499137e-07,4.96786250005594e-07,1000,30-59 numerator and benchmark are independently resampled because no streams are shared.
+J-S06-D05,first_30_paired,-4.328647531446768e-09,-5.574642852623736e-08,-5.042143605182684e-09,4.564886852555872e-08,1.0139529705179609e-07,1000,0-29 numerator and benchmark use identical resampled block counts.
+J-S06-D05,all_60_stratified,-7.34364669575109e-09,-3.093292191745527e-08,-8.039427828798453e-09,1.792275417388546e-08,4.8855676091340724e-08,1000,0-29 numerator shares benchmark counts; 30-59 is resampled independently; q is recomputed per draw.
+J-S06-D05,last_30_independent,-9.742615497378234e-09,-6.519193483187886e-08,-1.1459829582298758e-08,5.478094402819244e-08,1.199728788600713e-07,1000,30-59 numerator and benchmark are independently resampled because no streams are shared.
+J-S18-D05,first_30_paired,1.8152270091367832e-07,-2.725610968164297e-07,1.7368640741963019e-07,6.465003130479225e-07,9.190614098643522e-07,1000,0-29 numerator and benchmark use identical resampled block counts.
+J-S18-D05,all_60_stratified,7.620629852251724e-08,-1.5789446959772572e-07,6.557472243074799e-08,3.2532450131796434e-07,4.8321897091569e-07,1000,0-29 numerator shares benchmark counts; 30-59 is resampled independently; q is recomputed per draw.
+J-S18-D05,last_30_independent,1.198632879553411e-07,-2.9970353656833045e-07,1.0579967600568994e-07,5.572200025182275e-07,8.56923539086558e-07,1000,30-59 numerator and benchmark are independently resampled because no streams are shared.

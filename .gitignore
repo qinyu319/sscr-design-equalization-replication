@@ -24,3 +24,7 @@ temp/
 *.7z
 *.tar
 *.tar.gz
+
+# Reassembled lossless simulation archive; source parts are tracked.
+/data/combined_runs_120960.csv.gz
+/data/combined_runs_120960.csv.gz.assembling
